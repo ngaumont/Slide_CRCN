@@ -1,6 +1,6 @@
 # Slide_CRCN
 
-A version of the slides is hosted [here](https://ngaumont.fr/asset/CRCN/index.html)
+A version of the slides is hosted [here](https://ksadorf.github.io/Slide_CRCN/index.html#/)
 
 ## Dependencies
 
