@@ -1,0 +1,52 @@
+{
+  "_from": "reveald3",
+  "_id": "reveald3@1.4.0",
+  "_inBundle": false,
+  "_integrity": "sha512-EY5tqlMD25dLUv3UFF8CgTJ3LNEK8rhmMPRM827acsj5zhKSjo16xdlSV5m9q+xaJMCWXL+993LUeQPuYKzoXg==",
+  "_location": "/reveald3",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "reveald3",
+    "name": "reveald3",
+    "escapedName": "reveald3",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/reveald3/-/reveald3-1.4.0.tgz",
+  "_shasum": "4c618c222cf632c216c325370e7357bfc2d0fab2",
+  "_spec": "reveald3",
+  "_where": "/home/ngaumont/Tex/Presentation/CRCN-06-03",
+  "author": {
+    "name": "Guillaume Calmettes"
+  },
+  "bugs": {
+    "url": "https://github.com/gcalmettes/reveal.js-d3/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Full integration of animated javascript-based visualizations (D3, vega-lite, semiotic, etc ...) into Reveal.js presentations",
+  "homepage": "https://github.com/gcalmettes/reveal.js-d3#readme",
+  "keywords": [
+    "reveal",
+    "reveal.js",
+    "d3",
+    "d3.js"
+  ],
+  "license": "MIT Copyright (c) 2017 Guillaume Calmettes",
+  "name": "reveald3",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcalmettes/reveal.js-d3.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.4.0"
+}

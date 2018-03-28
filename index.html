@@ -1,0 +1,944 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+
+		<title>Candidature CNRS - Gaumont Noé</title>
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/simple.css">
+		<link rel="stylesheet" href="https://code.cdn.mozilla.net/fonts/fira.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+	    <link rel="stylesheet" href="lib/css/tomorrow.css">
+			<link rel="stylesheet" href="css/custom.css">
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+					<div class="FirstSlide">
+						<h2 class="header">
+							Caractéristiques, détection et modélisation <br>
+						  des structures mésoscopiques <br>
+						 dans les traces numériques
+					 </h2>
+
+						<h3 class="subtitle"><strong>Gaumont Noé</strong></h3>
+						<div class="laboratory">
+							<p>
+								Parcours :
+							</p>
+							<ul>
+								<li>2013: Diplome d'école d'ingénieur de l'Université de Technologie de Compiègne</li>
+								<li>2013-2016: Thèse au LIP6 encadré par C. Magnien et M. Latapy</li>
+								<li>2016-2018: Post-doctorat au CAMS et résident à l'ISCPIF</li>
+							</ul>
+						</div>
+						<div class="footer margin">
+							Concours 06/03 CNRS
+						</div>
+					</div>
+				</section>
+
+				<section>
+					<div class="slide1col">
+						<h3 class="header">Réseaux complexes</h3>
+					<div class="content">
+						<p class ="leftA">
+							Réseau complexe : ensemble d'entités hétérogènes en interaction
+						</p>
+						<table class="">
+							<thead>
+								<tr>
+									<th>Réseaux</th>
+									<th>Entités</th>
+									<th>Interactions</th>
+								</tr>
+							</thead>
+							<tbody class="invis">
+								<tr>
+									<td>fourmilières</td>
+									<td>fourmis</td>
+									<td>phéromones</td>
+								</tr>
+								<tr>
+									<td>web</td>
+									<td>pages web</td>
+									<td>liens hypertextes</td>
+								</tr>
+								<tr>
+									<td>traffic IP</td>
+									<td>ordinateurs</td>
+									<td>paquets IP</td>
+								</tr>
+								<tr class="fragment highlight-bold" data-fragment-index="1">
+									<td>réseaux<br>sociaux</td>
+									<td>personnes</td>
+									<td>dialogues</td>
+								</tr>
+								<tr class="fragment highlight-bold" data-fragment-index="1">
+									<td>réseaux sociaux<br>en ligne</td>
+									<td>personnes</td>
+									<td>messages</td>
+								</tr>
+							</tbody>
+						</table>
+						<svg id="temporal_msg" width="45%" style="margin-top: 10px"></svg>
+						<div id="appar_meso" class="fragment fade-in" data-fragment-index="1	"> </div>
+
+
+						<div class="RightA" style="margin-top:-60px">
+							<div class="fragment fade-out willhide" data-fragment-index="1">
+								<p>
+										<span id="appar_com" class="fragment fade-in" data-fragment-index="0">
+											Théorie des graphes<br>
+											Détection de communautés
+										</span>
+								</p>
+							</div>
+							<div  id="animate_tmp_net" class="h-rep-bet" >
+								<div>
+									<p class="fragment appear bad-red" data-fragment-index="1">
+										Relations $\neq$ interactions
+									</p>
+								</div>
+								<div>
+									<p class="fragment appear" data-fragment-index="1">
+										$\rightarrow$
+									</p>
+								</div>
+								<div>
+									<p class="fragment fade-in" data-fragment-index="1">
+									 Nouveau formalisme<br>
+									 Redéfinition structures mésoscopiques<br>
+									 <span class="fragment fade-in good-green" data-fragment-index="2"><strong>Convergence <em>big data</em>, Informatique et SHS</strong></span>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				</section>
+
+				<section>
+					<div class="slide1col">
+						<h3 class="header">
+							Projet de recherche
+						</h3>
+						<div class="content">
+							<div class="smallmargin" style="width:65%; margin-left:auto;margin-right:auto;padding-left:150px">
+								<img src="./Fig/deux_enjeux.svg">
+							</div>
+							<div class="h-rep-bet smallmargin">
+								<div class="leftA" style="width:42%">
+									<p class="fragment highlight-bold" data-fragment-index="0">
+										Formalisation des propriétés structurelles et temporelles
+									</p>
+									<p class="fragment highlight-bold" data-fragment-index="0">
+										Détections de structures mésoscopiques
+									</p>
+									<p>
+										Modèles d’évolution des structures
+									</p>
+							</div>
+							<div class="v-rep">
+								<p class="shade">
+									court terme
+								</p>
+								<div class="" style="width:6%;margin-left:auto;margin-right:auto;">
+									<img class="shade" src="./Fig/down_sign.svg">
+								</div>
+								<p class="shade">
+									long terme
+								</p>
+							</div>
+							<div class="RightA" style="width:42%">
+								<p class="fragment highlight-bold" data-fragment-index="0">
+									Reconstruction des groupes sociaux
+								</p>
+								<p class="fragment highlight-bold" data-fragment-index="0">
+									Caractérisation dynamique<br>de leur structure
+								</p>
+								<p>
+									Enjeux autour des<br>plateformes numériques
+								</p>
+							</div>
+						</div>
+					</div>
+				</section>
+
+				<section>
+					<div class="slidetitle">
+						<h2 class="header leftA">
+							Travaux en informatique
+						</h2>
+						<div class="subtitle leftA">
+							<ul>
+								<li>Formalisme de flots de liens</li>
+								<li>Densité d'un groupe de liens</li>
+								<li>Pertinence d'un groupe de liens</li>
+							</ul>
+						</div>
+
+					</div>
+					<div class="" style="position:absolute; top:100%;left:50%;width:50%">
+						<img src="./Fig/enjeux_shs.svg">
+					</div>
+				</section>
+
+
+				<section>
+					<div class="slide1col">
+						<h3 class="header">
+							Flots de liens
+						</h3>
+						<div class="content">
+							<p class="leftA">
+								$L=(T,V,E)$ <br>
+							</p>
+							<div class="h-rep">
+								<div class="h-el">$T:[\alpha, \omega]$</div>  <div class="h-el">$V: \{u\}$</div>  <div class="h-el">$E:\{(b,e,u,v)\}$</div>
+							</div>
+							<svg id="FlotLiens" width="90%" style="margin-top:2vh;"></svg>
+							<p class="leftA">
+								<span style="color:#006eaaff">$a$ et $c$ interagissent sur [2,3] $\Rightarrow$ $(2,3,a,c) \in E$</span><br>
+								<span style="color:#e05206ff">$a$ et $b$ interagissent sur [4,6] $\Rightarrow$ $(4,6,a,b) \in E$</span>
+							</p>
+							<p class="RightA">
+								<span class="good-green"><strong>Pas de perte d'information temporelle</strong></span><br>
+								<!-- <span class="">Définition de concepts adaptés aux flots de liens</span> -->
+							</p>
+						</div>
+					</div>
+				</section>
+
+
+
+				<section>
+					<div class="slide1col">
+						<h3 class="header">
+							<span class="fragment fade-out willhide" data-fragment-index="2">
+								Densité d'un groupe de lien
+							</span>
+							<span class="fragment current-visible tohide" data-fragment-index="2">
+							 Référence sur les nœuds
+						 </span>
+						 <span class="fragment current-visible tohide" data-fragment-index="3">
+							Référence sur la durée
+						</span>
+						<span class="fragment fade-in appear" data-fragment-index="4">
+						 Référence sur le temps de début
+					 </span>
+						</h3>
+						<div class="content">
+							<div class="h-rep-bet">
+								<div class="h-el" width="15vw">
+									<p class="fragment fade-in" data-fragment-index="0">
+										<span class="fragment fade-out"  data-fragment-index="2"> $V'=\{b,c,d,e\}$ </span>
+									</p>
+								</div>
+								<div class="h-el" width="60vw">
+									<svg id="figVariable" style="width:800px;"></svg>
+									<div id="stop_variable_anim" class="fragment"  data-fragment-index="5"></div>
+								</div>
+								<div class="h-el" width="15vw">
+										<p class="fragment fade-in" data-fragment-index="1">
+											<strong class="fragment fade-out"  data-fragment-index="2">Si $d=0.13\,$ ,<br>
+												est-ce élevé ?</strong>
+										</p>
+								</div>
+							</div>
+							<div class="smallmargin">
+								<p class="RightA fragment fade-out willhide"  data-fragment-index="2">
+									<span class="fragment fade-in" id="aide_zone"  data-fragment-index="0">
+										$d(V',\alpha',\delta) = 2 \dfrac{\sum_{liens} \delta_{lien}}{|V'|(|V'|-1) \delta}\ $, probabilité d'un lien entre 2 nœuds à un instant aléatoire.
+									</span>
+								</p>
+								<p class="fragment current-visible tohide" id="ref_nodes"  data-fragment-index="2">
+									$d(\mathbf{X},\alpha',\delta)$ tel que $|\mathbf{X} \cap V'|=|V'|-1=|\mathbf{X}|-1$
+								</p>
+
+								<p class="fragment current-visible tohide" id="ref_dure" data-fragment-index="3">
+									$d(V',\alpha',\mathbf{X})$ tel que $\mathbf{X} \in [0,\omega]$
+								</p>
+								<p class="fragment fade-in appear" id="ref_deb"  data-fragment-index="4">
+									$d(V',\mathbf{X},\delta)$ tel que $\mathbf{X} \in [\alpha,\omega]$
+								</p>
+							</div>
+						</div>
+					</div>
+				</section>
+
+				<section>
+					<div class="slide1col">
+						<h3 class="header">
+							Évaluation d'un groupe
+						</h3>
+						<div class="content">
+							<svg id="eval_groupe" width="60%" class="leftA"></svg>
+							<div id="anim_eval_groupe" class="fragment" data-fragment-index="0"></div>
+							<ul class="smallmargin fragment fade-in" data-fragment-index="0">
+								<li>$0 \leq score_{r\acute{e}f\acute{e}rence} \leq1$</li>
+								<li>Score élevé : groupe plus dense que les groupes de la référence considérée</li>
+								<li  class="fragment fade-in" data-fragment-index="1">Groupes poteniellement pertinent détectés par une méthode <em>ad-hoc</em></li>
+							</ul>
+						</div>
+					</div>
+				</section>
+
+				<section>
+					<div class="slide1col">
+						<h3 class="header">
+							Socio Pattern
+						</h3>
+						<div class="content">
+							<p class="leftA">
+								Socio Pattern: réseaux d'interactions de 180 étudiants pendant 9 jours <br>
+								Groupe détecté: $50$ interactions entre $17$ étudiants pendant $\approx 15$ minutes à 7h44
+							</p>
+							<div>
+								<img src="Fig/substr9522.svg" height=325>
+							</div>
+							<div class="h-rep">
+								<div class="h-rep-bet">
+									<div>
+										<img src="Fig/vairable_start9522.svg" height=350 style="max-width: 100%;max-height: 100%;">
+									</div>
+									<div class="">
+										<p class="leftA">
+											$score_{début} = 1$
+										</p>
+									</div>
+								</div>
+								<div class="h-rep-bet">
+									<div>
+										<img src="Fig/vairable_duration9522.svg" height=350 style="max-width: 100%;max-height: 100%;">
+									</div>
+									<div class="">
+										<p class="leftA">
+											$score_{durée} = 0.98$
+										</p>
+									</div>
+								</div>
+							</div>
+							<p class="RightA fragment fade-in good-green">
+								Groupes <strong>non détectés par une approche statique</strong> et validés par les méta-données
+							</p>
+						</div>
+					</div>
+				</section>
+
+				<section>
+					<div class="slide1col">
+						<h3 class="header">
+							Travaux en Informatique
+						</h3>
+						<div class="content">
+							<div class="" style="width:55%; margin-left:auto;margin-right:auto;padding-left:200px">
+								<img src="./Fig/enjeux_shs.svg">
+							</div>
+							<div class="h-rep-bet">
+								<div class="leftA" style="width:42%">
+									<p>
+										<strong>
+										Formalisation des propriétés structurelles et temporelles</strong>
+									</p>
+									<p>
+										<strong>
+										Détections de structures mésoscopiques</strong>
+									</p>
+									<p>
+										Modèles d’évolution des structures
+									</p>
+							</div>
+							<div class="v-rep">
+								<p class="shade">
+									court terme
+								</p>
+								<div class="" style="width:6%;margin-left:auto;margin-right:auto;">
+									<img class="shade" src="./Fig/down_sign.svg">
+								</div>
+								<p class="shade">
+									long terme
+								</p>
+							</div>
+							<div class="RightA" style="width:42%">
+							</div>
+						</div>
+						<p class="leftA" style="font-size:20pt;font-weight:bold">
+							<span >Journal : SNAM16<br>
+							Conférence internationale : CompleNet15, CompleNet16, CCS17<br>
+							Conférence nationale et workshop: Dyno16, AlgoTel14, AlgoTel16</span>
+						</p>
+						<p class="leftA" style="margin-top:-15px">
+							Tests sur jeux de données de terrains et code open source (<a href="https://linkstream.ngaumont.fr/">linkstream.ngaumont.fr/</a>)
+						</p>
+					</div>
+				</section>
+
+
+				<section>
+					<div class="slidetitle">
+						<h2 class="header leftA">
+							Travaux en Sciences Humaines et Sociales : <br>
+							le politoscope
+
+						</h2>
+						<div class="subtitle leftA">
+							<ul>
+								<li>Étude de la Twittosphere politique</li>
+								<li>Évolution des communautés</li>
+								<li>Espace socio-sémantique</li>
+							</ul>
+						</div>
+					</div>
+					<div class="" style="position:absolute; top:100%;left:50%;width:50%">
+						<img src="./Fig/enjeux_info.svg">
+					</div>
+				</section>
+
+
+					<section>
+						<div class="slide1col">
+							<h2 class="header">
+								Politoscope
+							</h2>
+							<div class="content">
+								<h3 class="smallmargin leftA">Peut-on reconstruire le paysage politque d'un pays et ses reconfigurations à l'aide de traces numériques ?
+								</h3>
+								<ul class="leftA">
+									<li style="margin-top:15px">Diffusion de l’information</li>
+									<li style="margin-top:15px">Structures des communautés politiques</li>
+									<li style="margin-top:15px">Spécifités sémantiques des communautés</li>
+									<li style="margin-top:15px">Relation entre les candidats et leurs communautés</li>
+									<li style="margin-top:15px">Interactions entre les communautés </li>
+								</ul>
+							</div>
+						</div>
+					</section>
+
+
+					<section>
+						<div class="slide1col">
+							<h3 class="header">
+								Données collectées
+							</h3>
+							<div class="content">
+
+								<div class="h-rep topA">
+									<div style="width:75%">
+										<div>
+											<img src="./Fig/Politicallandscape.png">
+											<p>
+												Graphe entre août et décembre 2016.
+											</p>
+										</div>
+										<!-- <div class="">
+											<img src="./Fig/DiffusionRexecode.png">
+												Diffusion d'un tweet
+										</div> -->
+									</div>
+
+									<div class="topA leftA" style="width:25%">
+										<p class="smallmargin">
+											<strong>Données : </strong>interactions autour de $\approx3500$ comptes de personnalités politiques (Twitter API) depuis juin 2016.
+										</p>
+										<p class="">
+											<strong>Nœuds : </strong>2.4 millions de comptes sur <span>[01/08/16; 08/05/17]</span>
+										</p>
+										<p class="">
+											<strong>Liens : </strong>40 millions de retweets sur [01/08/16; 08/05/17]
+										</p>
+										</div>
+
+										<!-- <p class="">
+											<strong>Périodes :</strong> périodes de 2 semaines chevauchantes.
+										</p>
+										<p class="">
+											<strong>Communautés :</strong> Pour chaque période, détection de communautés (Louvain) dans le réseau des comptes ayant au moins $M$ retweets.
+										</p> -->
+
+
+								</div>
+							</div>
+						</div>
+					</section>
+
+					<section>
+						<div class="multiRow">
+							<h3 class="header">
+								Évolution des communautés politiques
+							</h3>
+							<div id="alluvial" class="fig-container content"
+										data-file="Fig/Alluvial/index.html"
+										data-style="height: 800px; width: 1750px;">
+							</div>
+							<div id="explanation" class="foot">
+							  <p class="fragment fade-out tohide" data-fragment-index="0">
+							    Graphe alluvial des communautés politiques entre août 2016 et septembre 2017<br>
+									Chaque barre verticale est proportionnelle à la taille de la communauté
+							  </p>
+								<p class="fragment current-visible tohide" data-fragment-index="0">
+								 Victoire de François Fillon lors des primaires de la droite
+							  </p>
+							  <p class="fragment current-visible tohide" data-fragment-index="1">
+								 	Perturbation lors du <em>Penelope Gate</em>
+								 <!-- <span class="fragment fade-in appear" data-fragment-index="2">
+									 <br>Couleur selon l'ancienneté des comptes dans la communauté
+								 </span> -->
+							  </p>
+								<p class="fragment fade-in appear" data-fragment-index="2">
+								 	Graphe alluvial des communautés politiques entre août 2016 et septembre 2017
+								 <!-- <span class="fragment fade-in appear" data-fragment-index="2">
+									 <br>Couleur selon l'ancienneté des comptes dans la communauté
+								 </span> -->
+							  </p>
+								<!-- <p class="fragment current-visible tohide" data-fragment-index="3">
+								 Tractation lors du Penelope Gate
+								</p> -->
+							</div>
+						</div>
+					</section>
+
+					<section>
+						<div class="slide1col">
+							<h3 class="header">
+								Plateforme politoscope
+							</h3>
+							<div class="content">
+								<div class="h-rep-bet" >
+									<div style="width:85%">
+										<img src="./Fig/politoscope_dashboard.png">
+										<p>
+											Espace socio-sémantique des communautés politiques<br>
+											<a href="https://politoscope.org">politoscope.org</a>
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</section>
+
+					<section>
+						<div class="slide1col">
+							<h3 class="header">
+								Travaux en Sciences Humaines et Sociales
+							</h3>
+							<div class="content">
+								<div class="" style="width:55%; margin-left:auto;margin-right:auto;padding-left:150px">
+									<img src="./Fig/enjeux_info.svg">
+								</div>
+								<div class="h-rep-bet">
+									<div class="leftA" style="width:42%">
+
+								</div>
+								<div class="v-rep">
+									<p class="shade">
+										court terme
+									</p>
+									<div class="" style="width:6%;margin-left:auto;margin-right:auto;">
+										<img class="shade" src="./Fig/down_sign.svg">
+									</div>
+									<p class="shade">
+										long terme
+									</p>
+								</div>
+								<div class="RightA" style="width:42%">
+									<p>
+										<strong>
+										Reconstruction des groupes sociaux</strong>
+									</p>
+									<p><strong>
+										Caractérisation dynamique<br>de leur structure</strong>
+									</p>
+									<p>
+										Enjeux autour des<br>plateformes numériques
+									</p>
+								</div>
+							</div>
+							<p class="leftA smallmargin" style="margin-top:-15px;font-size:20pt;font-weight:bold">
+								<span style="">Vulgarisations : exposition TerraData, plateforme <a href="https://politoscope.org">politoscope</a>, hackathon <em>datapol</em><br>
+								Workshop international : CCS17, colloque ISCC<br>
+								Article en cours de révision : PLOS ONE <br>
+								Articles en cours de soumission : letter to Science, ICWSM18 </span>
+							</p>
+							<p class="leftA" style="margin-top:-15px">
+								Collecte et partage de données (<a href="https://dx.doi.org/10.7910/DVN/6739SP">Dataverse</a>), algorithmes de traitements et visualisations
+							</p>
+						</div>
+					</section>
+
+
+					<section>
+						<div class="slide1col">
+							<h3 class="header">
+								Intégration dans le laboratoire d'affectation
+							</h3>
+							<div class="content affectation">
+								<div class="h-rep-bet topA">
+									<div style="width:49%">
+										<img src="./Fig/Logo-LISST.png" height="120px">
+										<p>
+												LISST, <span class="desc-pers">UT2J & CNRS & EHESS</span> (UMR 5193)
+										</p>
+										<div class="leftA">
+											<p>
+											Interactions possibles:
+											</p>
+											<ul class="small-list" style="margin-left:20px;">
+												<li>Michel Grossetti <span class="desc-pers">théorie sociologique et réseaux sociaux</span></li>
+												<li>Bertrand Jouve <span class="desc-pers">mathématiques des systèmes complexes</span></li>
+												<li>Beatrice Milard <span class="desc-pers">sociologie des réseaux sociaux</span></li>
+												<li>Julien Figeac <span class="desc-pers">sociologie de la communication</span></li>
+											</ul>
+											<p>
+												Laboratoire d'excellence : <br>
+												<span class="desc-pers">Structure des Mondes Sociaux (9 unités de recherche)</span><br>
+												Projet de recherches : <span class="desc-pers">ANR LisTIC, ANR GeoScimo</span>
+											</p>
+											<p>
+												Réseaux avec <span class="desc-pers">IRIT</span>, <span class="desc-pers">XSYS</span>, <span class="desc-pers">IMT</span> et <span class="desc-pers">LASS</span>
+											</p>
+										</div>
+									</div>
+									<div style="width:49%">
+										<img src="./Fig/Logo-CAMS.png"  height="120px">
+										<p>
+												CAMS, <span class="desc-pers">CNRS & EHESS</span> (UMR 8557)
+										</p>
+										<div class="leftA">
+											<p>
+											Interactions possibles:
+											</p>
+											<ul class="small-list" style="margin-left:20px;">
+												<li>Marc Barthelemy <span class="desc-pers">physique statistique des graphes</span></li>
+												<!-- <li> Patrice Ossona de Mendez <span class="desc-pers">mathématique des réseaux épars</span></li> -->
+												<li>David Chavalarias <span class="desc-pers">humanité numérique</span></li>
+												<li>Sabine Ploux <span class="desc-pers">modélisation pour le langage</span></li>
+											</ul>
+											<p>
+												Projet de recherches :<br> <span class="desc-pers">ANR algodiv, ANR epique, projet science en poche</span>
+											</p>
+											<p>
+												Séminaires
+												 : <span class="desc-pers">Systèmes complexes en sciences sociales</span>, <span class="desc-pers">approche des réseaux sociaux</span><br>
+												Réseau avec l'ISCPIF <span class="desc-pers">(D. Chavalarias, R. Lamarche Perrin)</span>, LIP6 <span class="desc-pers">(L. Tabourier)</span> et Medialab <span class="desc-pers">(Dominique Cardon)</span>
+											</p>
+											<p>
+												Participation aux enseignements de EHESS et PSL<br>
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</section>
+
+				<section>
+					<div class="slide1col publication">
+						<h3 class="header">
+							Publications & Présentations
+						</h3>
+						<div class="content h-rep-bet topA">
+							<div class="" style="width:33%">
+								<div>
+									<p class=""> Jounaux internationals
+									</p>
+									<ul>
+										<li><strong>N. Gaumont</strong>, C. Magnien et M. Latapy. SNAM 2016.</li>
+										<li class="socio"><strong>N. Gaumont</strong>, M. Panahi et D. Chavalarias. <strong>Soumis à PLOS ONE</strong> révisions demandées, resoumis.</li>
+									</ul>
+								</div>
+								<div>
+									<p class="">Workshops et présentations à audience internationale
+									</p>
+									<ul>
+										<li class=""><strong>N. Gaumont</strong>, M. Panahi et D. Chavalarias. CCS 2017. </li>
+										<li class="socio"><strong>N. Gaumont</strong>, M. Panahi et D. Chavalarias. Colloque international à l'ISCC, 2017. </li>
+										<li>T. Viard et <strong>N. Gaumont</strong>. Dynamics On and Of Networks 2016.</li>
+										<li class="unpublished">M. Danisch, <strong>N. Gaumont</strong> et JL Guillaume. Soumis à CTW 2018.</li>
+									</ul>
+								</div>
+							</div>
+							<div  class="" style="width:33%">
+								<div>
+									<p class=""> Conférences internationales
+									</p>
+									<ul>
+										<li><strong>N. Gaumont</strong>, T. Viard, R. Fournier-S’niehotta, Q. Wang et M. Latapy. CompleNet 2016.</li>
+										<li><strong>N. Gaumont</strong>, F. Queyroi, C. Magnien et M. Latapy. CompleNet 2015.</li>
+										<li class="unpublished">D. Chavalarias, <strong>N. Gaumont</strong> et M. Panahi. Soumis à ICWSM 2018</li>
+									</ul>
+								</div>
+								<div>
+									<p class=""> Vulgarisations et disséminations
+									</p>
+									<ul>
+										<li id="terraData" class="socio">Exposition Terra Data à la <em>cité des sciences et de l'industrie</em> pendant 9 mois.</li>
+										<li class="socio">Plateforme <a href="https://politoscope.org">politoscope.org</a></li>
+										<li class="socio">Plus de 50 citations du projet politoscope dans les médias traditionnels (New York Times, Le monde).</li>
+										<li>Politoscope data. <a href="https://dx.doi.org/10.7910/DVN/6739SP">doi:10.7910/DVN/6739SP</a>, Harvard Dataverse, DRAFT</li>
+									</ul>
+								</div>
+							</div>
+							<div  class="" style="width:33%">
+								<div>
+									<p class=""> Conférences nationales
+									</p>
+									<ul class="leftA" style="display:block;">
+										<li><strong>N. Gaumont</strong> et François Queyroi. AlgoTel 2014.</li>
+										<li><strong>N. Gaumont</strong>. AlogTel 2016.</li>
+									</ul>
+								</div>
+								<div>
+									<p>Parcours
+									</p>
+									<ul>
+										<li>2013 : Diplome d'école d'ingénieur de l'Université de Technologie de Compiègne</li>
+										<li>2013-2016 : Thèse au LIP6 encadré <br>
+											<div class="h-rep-bet topA">
+												<div>
+													<p class="no-bot-margin not-top-margin">Directeurs:</p>
+													<ul class="small-list">
+														<li>C. Magnien (LIP6)</li>
+														<li>M. Latapy (LIP6)</li>
+													</ul>
+												</div>
+												<div>
+													<p class="no-bot-margin not-top-margin">Rapporteurs:</p>
+													<ul class="small-list">
+														<li>JL. Guillaume (L3i)</li>
+														<li>D. Chavalarias (CAMS-EHESS)</li>
+													</ul>
+												</div>
+												<div>
+													<p class="no-bot-margin not-top-margin">Examinateurs:</p>
+														<ul class="small-list">
+															<li>B. Jouve (FRAMESPA-IMT)</li>
+															<li>C. Matias (LPMA)</li>
+															<li>G. Tredan (LAAS)</li>
+															<li>V. Serfaty (DGA)</li>
+														</ul>
+													</p>
+												</div>
+											</div>
+										</li>
+										<li class="socio" style="margin-top:-19px" >2016-2018 : Post-doctorat au CAMS et résident à l'ISCPIF</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="publication smallmargin">
+						<ul style="display:flex" class="h-rep-bet">
+							<li style="width:40%;text-align:right">public Informatique</li>
+							<li class="socio" style="width:40%;text-align:left">public SHS</li>
+						</ul>
+					</div>
+				</section>
+
+				<section class="stack">
+					<div class="slidetitle">
+						<h2 class="header leftA">
+							Backup slides
+						</h2>
+						<div class="subtitle leftA">
+
+						</div>
+					</div>
+				</section>
+
+				<section class="stack">
+					<section  class="stack">
+						<div class="slide1col">
+							<h3 class="header">
+								Série de graphes
+							</h3>
+							<div class="content">
+								<p class="leftA">
+									Série de graphes: ensemble de graphes statiques.
+								</p>
+								<svg id="TVG" width="60%" class="smallmargin"></svg>
+								<p class="RightA bad-red largemargin">
+									Nécessite de connaître une échelle de temps pertinente <br>
+									Perte d'information
+								</p>
+							</div>
+						</div>
+					</section>
+
+					<section class="stack">
+						<div class="slide1col">
+							<h3 class="header">
+								Graphes temporels
+							</h3>
+							<div class="content">ce des données : ingénierie des données et connaissances, apprentissage, raisonnement ».
+								<p class="leftA">
+									Graphe temporel: ensembles d'ajouts et de suppressions de liens
+								</p>
+								<svg id="GrapheTemporel" width="90%" class="smallmargin"></svg>
+								<p class="RightA largemargin">
+									<span class="good-green">Pas de perte d'information temporelle</span><br>
+									<span class="bad-red">Structure de graphe à chaque instant</span>
+								</p>
+							</div>
+						</div>
+					</section>
+				</section>
+			</section>
+
+
+			<section class="stack">
+				<div class="slide1col">
+					<h3 class="header">
+						Détection de groupes pertinents
+					</h3>
+					<div class="content">
+
+						<div class="fragment fade-out willhide" data-fragment-index="0">
+							<img src="./Fig/TransFlot/Transformation.svg" height="500px"></img>
+						</div>
+						<div class="fragment current-visible tohide" data-fragment-index="0">
+							<img src="./Fig/TransFlot/Transformation2.svg" height="500px"></img>
+						</div>
+						<div class="fragment current-visible tohide" data-fragment-index="1">
+							<img src="./Fig/TransFlot/Transformation3.svg" height="500px"></img>
+						</div>
+						<div class="fragment fade-in appear" data-fragment-index="2">
+							<img src="./Fig/TransFlot/Transformation4.svg" height="500px"></img>
+						</div>
+
+						<ul class="smallmargin">
+							<ol>Projection en graphe statique</ol>
+							<ol class="fragment fade-in" data-fragment-index="0">Détection des communautés du graphe statique, via \emph{Louvain}</ol>
+							<ol class="fragment fade-in" data-fragment-index="1">Transfert de la partition trouvée dans le flot de liens</ol>
+							<ol class="fragment fade-in" data-fragment-index="2">Application de la méthode d'évaluation pour garder certains groupes</ol>
+						</ul>
+					</div>
+				</div>
+			</section>
+
+
+			<section class="stack">
+				<div class="slide1col">
+					<h3 class="header">
+						Diffusion de fake news
+					</h3>
+					<div class="content">
+						<div class="h-rep-bet smallmargin">
+							<div style="width:50%">
+								<div>
+									<img src="./Fig/FakeLinks.PNG">
+									<p>
+										Graphes des partages de fake news et de démentis selon des données des <em>Decodeurs</em>
+									</p>
+								</div>
+							</div>
+
+							<div class="" style="width:45%">
+								<div>
+									<img src="./Fig/radars_fake_debunk.svg">
+									<p>
+										Écart à la moyenne de partage des fake news
+									</p>
+								</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section class="stack">
+				<div class="slide1col">
+					<h3 class="header">
+						Diffusion de fake news
+					</h3>
+					<div class="content">
+						<div>
+							<img src="./Fig/PresidentielleTopics.svg" height=870>
+						</div>
+						<p>
+							Thèmes détecté sur le graphe de co-occurence générépar <a href="https://gargantext.org/">Gargantext</a>
+						</p>
+					</div>
+				</div>
+			</section>
+
+
+
+			</div>
+		</div>
+
+		<!-- To load  dependencies (MathJax), reveal.js requires head.js -->
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+		<script src="lib/js/d3.v4.min.js"></script>
+		<script src="js/custom.js" ></script>
+
+		<script>
+			// More info https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				history: true,
+				controls: false,
+
+				// The "normal" size of the presentation, aspect ratio will be preserved
+				// when the presentation is scaled to fit different resolutions. Can be
+				// specified using percentage units.
+				width: 1920,
+				height: 1080,
+
+				// Factor of the display size that should remain empty around the content
+				margin:0,
+
+
+				// workaround to get a nice representation for printing
+				pdfMaxPagesPerSlide: 1,
+
+				// Help the user learn the controls by providing hints, for example by
+				// bouncing the down arrow when they first encounter a vertical slide
+				controlsTutorial: false,
+
+				// Vertical centering of slides
+				center: false,
+
+        // Hides the address bar on mobile devices
+        hideAddressBar: true,
+
+				SlideNumber:true,
+				// Display the page number of the current slide
+				slideNumber: 'c/t',
+
+				// Number of slides away from the current that are visible
+				viewDistance: 2,
+
+				// Transition style
+				transition: 'none', // none/fade/slide/convex/concave/zoom
+
+				// Transition speed
+				transitionSpeed: 'fast', // default/fast/slow
+
+				// More info https://github.com/hakimel/reveal.js#dependencies
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					// MathJax
+        	{ src: 'plugin/math/math.js', async: true },
+					{ src: 'plugin/reveald3/reveald3.js' }
+				]
+			});
+		</script>
+	</body>
+</html>

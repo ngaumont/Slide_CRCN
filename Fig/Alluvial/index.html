@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<head>
+<title>Sankey Diagram</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+<div id="data-description">
+  <p style="display:none;">Periode:
+    <span id="period" >
+      Lorem
+    </span>
+  </p>
+</div>
+
+<select id="select_color" style="display:none">
+  <option value="com" selected>Couleur par défaut</option>
+  <option value="fidel" >Fidélité</option>
+  <option value="fidel_percent" >Fidélité %</option>
+</select>
+<div id="global">
+<div id="chart"></div>
+<div id="Time_scale"></div>
+</div>
+
+<!-- https://d3js.org/d3.v4.min.js -->
+<script src="d3.v4.min.js"></script>
+<!--  https://unpkg.com/d3-sankey@0-->
+<script src="d3-sankey@0.4.2"></script>
+
+<!-- <script src="https://cdn.rawgit.com/eligrey/Blob.js/0cef2746414269b16834878a8abc52eb9d53e6bd/Blob.js"></script>
+<script src="https://cdn.rawgit.com/eligrey/canvas-toBlob.js/f1a01896135ab378aa5c0118eadd81da55e698d8/canvas-toBlob.js"></script>
+<script src="https://cdn.rawgit.com/eligrey/FileSaver.js/e9d941381475b5df8b7d7691013401e171014e89/FileSaver.min.js"></script> -->
+
+<script src="Blob.js"></script>
+<script src="canvas-toBlob.js"></script>
+<script src="FileSaver.min.js"></script>
+<script src="d3-time.v1.min.js"></script>
+
+<script src="main.js"></script>
+
+</body>
+</html>

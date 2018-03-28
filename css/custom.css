@@ -1,0 +1,432 @@
+/*
+ * Removing odd borders from image,
+ * source: http://stackoverflow.com/questions/23082660/how-to-style-images-in-reveal-js
+ */
+.reveal section img {
+      margin: 0px;
+      background:none;
+      border:none;
+      box-shadow:none;
+}
+.reveal .shade {
+  color:#666;
+}
+
+.reveal .desc-pers {
+  color:#666;
+  font-weight: bold;
+  font-size: 20pt;
+}
+
+.reveal section .subtitle ul li{
+  font-size: 1.2em;
+}
+
+.reveal section .publication ul.small-list {
+  list-style-type:circle;
+  padding: 0;
+  margin-left: 20px;
+}
+.reveal section .publication ul.small-list li::before {
+  margin-right: 0;
+  margin-bottom: 0;
+  height: 0;
+  width: 0;
+}
+.reveal section p.no-bot-margin{
+  margin-bottom:0;
+}
+.reveal section p.no-bot-margin{
+  margin-top:0;
+}
+.reveal section .publication ul li {
+  font-size: 17pt;
+}
+.reveal section .publication ul li.unpublished {
+  color: #777;
+}
+.reveal section .publication ul li.unpublished::before{
+    opacity:0.5;
+}
+
+.reveal section .publication ul li.socio::before{
+    background-color: #e73131cc;
+}
+
+margin-left:auto;margin-right:auto;
+.reveal section .publication ul{
+  margin-left:0;
+}
+.reveal section .publication ul li::before{
+  background-color: #8bc997cc;
+  border-radius: 50%;
+  content: "";
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: -2px;
+  height: 19px;
+  width: 19px;
+}
+
+/* .reveal section .publication ul li#terraData::before{
+  all: initial;
+  * {
+    all: unset;
+  };
+} */
+
+section  .slidetitle .header{
+  padding-left: 7vw;
+}
+section  .slidetitle .subtitle{
+  padding-left: 7vw;
+}
+
+.reveal section ul li::before{
+  background-color: #8bc997cc;
+  border-radius: 50%;
+  content: "";
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 5px;
+  height: 15px;
+  width: 15px;
+}
+
+.reveal section ul {
+  list-style-type: none;
+  padding: 0;
+  margin-left: 5vw;
+
+}
+.reveal section .publication ul {
+  margin-left: 15px;
+
+}
+
+.reveal section .subtitle ul {
+  /*margin-left: 10vw;*/
+}
+
+.reveal .smallmargin {
+  margin-top: 5vh;
+}
+
+.reveal .medmargin {
+  margin-top: 10vh;
+}
+
+.reveal .largemargin {
+  margin-top: 15vh;
+}
+
+.reveal .leftA{
+  text-align: left;
+}
+
+.reveal .RightA{
+  text-align: right;
+}
+
+.reveal .bad-red {
+  color:#b44b4b;
+}
+.reveal .good-green {
+  color:#487d52;
+}
+
+.v-rep{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.v-rep-ar{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.h-rep{
+  display:flex;
+  flex-direction: row;
+  justify-content:  space-between;
+  align-items: center;
+}
+.h-rep.topA,
+.h-rep-bet.topA{
+  align-items: flex-start;
+}
+.h-rep-bet{
+  display:flex;
+  flex-direction: row;
+  justify-content:  space-around;
+  align-items: center;
+}
+
+#alluvial {
+  height:800px;
+  width:1800px;
+}
+
+
+.reveal div#explanation p {
+  margin:0;
+}
+
+.reveal .slides section .fragment.highlight-bold.visible {
+  font-weight: bold;
+}
+.reveal .slides section .fragment.highlight-bold {
+  visibility: inherit;
+  opacity: 1.0;
+}
+
+.reveal .slides section .fragment.fade-out.visible.tohide{
+  display: none;
+}
+
+.reveal .slides section .fragment.visible.willhide{
+  display: none;
+}
+
+.reveal .slides section .fragment.appear:not(.visible){
+  display: none;
+}
+
+.reveal .slides section .fragment.current-visible.tohide:not(.current-fragment) {
+  display: none;
+}
+.reveal .slides section .fragment.current-visible.tohide.current-fragment {
+  display: inherit;
+}
+
+div.slide1col{
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-auto-rows: minmax(100px, auto);
+  grid-gap: 0px;
+  grid-template-areas:
+    "hd"
+    "main";
+}
+
+div.slidetitle{
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: 350px auto;
+  grid-template-areas:
+    ".  ."
+    "hd hd"
+    "st st"
+    ".  .";
+}
+.reveal .subimg  {
+  grid-area: subim;
+  margin-top:10%;
+}
+
+div.slide2col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-rows: minmax(100px, auto);
+  grid-template-areas:
+    "hd hd"
+    "lc rc";
+}
+
+
+
+/*.slide2col > div, .slide1col > div {
+  border: 2px solid #ffa94d;
+  border-radius: 5px;
+  background-color: #ffd8a8;
+}*/
+
+div.big3x3 {
+  display:grid;
+  grid-template-columns: 0.35fr 1fr 1fr;
+  grid-template-rows: auto auto auto;
+  box-sizing: border-box;
+  grid-template-areas:
+    ".  hdl hdr"
+    "s1 c11 c12"
+    "s2 c21 c22";
+}
+.reveal .hdr,
+.reveal .hdl{
+margin-bottom: 40px;
+}
+.reveal .hdl  {
+  grid-area: hdl;
+}
+.reveal .hdr  {
+  grid-area: hdr;
+}
+.reveal .c11,
+.reveal .c12,
+.reveal .c21,
+.reveal .c22 {
+  margin: -2px -2px 0 0;
+  border: solid 2px #999;
+  padding-left:15px;
+  padding-right:15px;
+  /*font-size:25pt;*/
+  text-align: left;
+  /*display: flex;
+  flex-direction: column;
+  justify-content: center; */
+}
+
+.reveal .c11  {
+  grid-area: c11;
+}
+.reveal .c12  {
+  grid-area: c12;
+}
+.reveal .c21  {
+  grid-area: c21;
+}
+.reveal .c22  {
+  grid-area: c22;
+}
+.reveal .s1  {
+  grid-area: s1;
+  align-self: center;
+}
+.reveal .s2  {
+  grid-area: s2;
+  align-self: center;
+}
+
+div.FirstSlide{
+  display: grid;
+  height: 100%;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto;
+  grid-gap: 0px;
+  grid-template-areas:
+    "."
+    "hd"
+    "st"
+    "lab"
+    "."
+    "ft";
+}
+
+div.multiRow{
+  display: grid;
+  height: 100%;
+  grid-template-columns: 1fr;
+  grid-template-rows: minmax(100px, auto);;
+  grid-template-areas:
+    "hd"
+    "main"
+    "ft";
+}
+.reveal .foot{
+    grid-area: ft;
+}
+.reveal .footer {
+  grid-area: ft;
+  margin-top:13%;
+}
+
+.reveal .laboratory  {
+  grid-area: lab;
+  text-align: left;
+  margin-left: 100px;
+  margin-top: 60px;
+}
+
+.subtitle {
+  grid-area: st;
+}
+
+.header {
+  grid-area: hd;
+}
+
+h1.header,
+h2.header,
+h3.header,
+h4.header,
+h5.header,
+h6.header  {
+  background-color: #8bc997cc;
+  padding-top: 5px;
+}
+
+.reveal .publication .content {
+
+  padding-left: 2vw;
+  padding-right: 2vw;
+}
+.reveal .content {
+  grid-area: main;
+  padding-left: 5vw;
+  padding-right: 5vw;
+
+}
+
+.reveal .content.affectation {
+  grid-area: main;
+  padding-left: 2vw;
+  padding-right: 2vw;
+
+}
+.reveal .leftside {
+  grid-area: lc;
+  padding-left: 5vw;
+}
+.reveal .rightside {
+  grid-area: rc;
+  padding-right: 5vw;
+}
+
+.reveal .slide-number {
+  font-size:13pt;
+}
+.reveal table {
+      font-size:23pt;
+}
+
+/* This table is for aligning elements - pretty useful! */
+.reveal table>tbody.invis {
+      border: none
+}
+
+/*.reveal table>tbody.invis>tr>td {
+      border: 0px solid;
+}*/
+
+/* This is standard table with lines too guide */
+.reveal table>thead {
+      /*background-color: #DDD;*/
+      border-top:2px double black;
+      border-left:2px double black;
+      border-right:2px double black;
+      border-bottom:2px double black;
+}
+
+.reveal table>tbody>tr td {
+      border-left:2px double black;
+      border-right:2px double black;
+
+      vertical-align: middle;
+}
+
+.reveal .slides section table>tbody>tr td.current-visible.tohide.fragment.current-fragment,
+.reveal .slides section table>tbody tr.current-visible.tohide.fragment.current-fragment,
+.reveal .slides section table>thead>tr th.current-visible.tohide.fragment.current-fragment
+ {
+      display:table-cell;
+}
+
+.reveal table>tbody tr {
+      border-bottom:2px double black;
+}
+
+
+.reveal table>thead>tr th {
+      border-left:2px double black;
+}

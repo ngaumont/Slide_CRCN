@@ -1,0 +1,3214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="stroke-linejoin:round; stroke:black; stroke-width:0.5pt; text-anchor:middle; fill:none"
+   font-family="Helvetica, Arial, FreeSans, Sans, sans, sans-serif"
+   height="340px"
+   width="1120.0px"
+   version="1.1"
+   viewBox="0 0 1120.0 340"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="substr.svg">
+  <metadata
+     id="metadata1082">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1080" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1143"
+     id="namedview1078"
+     showgrid="false"
+     inkscape:zoom="1.1714286"
+     inkscape:cx="883.28885"
+     inkscape:cy="-22.384363"
+     inkscape:window-x="1366"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4" />
+  <g
+     id="g4">
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="302"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text6">1</text>
+    <line
+       stroke-width="0.5"
+       y2="300"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="300"
+       x1="15"
+       id="line8" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="282"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text10">2</text>
+    <line
+       stroke-width="0.5"
+       y2="280"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="280"
+       x1="15"
+       id="line12" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="52"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text14">3</text>
+    <line
+       stroke-width="0.5"
+       y2="50"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="50"
+       x1="15"
+       id="line16" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="12"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text18">4</text>
+    <line
+       stroke-width="0.5"
+       y2="10"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="10"
+       x1="15"
+       id="line20" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="272"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text22">5</text>
+    <line
+       stroke-width="0.5"
+       y2="270"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="270"
+       x1="15"
+       id="line24" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="82"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text26">6</text>
+    <line
+       stroke-width="0.5"
+       y2="80"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="80"
+       x1="15"
+       id="line28" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="62"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text30">7</text>
+    <line
+       stroke-width="0.5"
+       y2="60"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="60"
+       x1="15"
+       id="line32" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="92"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text34">8</text>
+    <line
+       stroke-width="0.5"
+       y2="90"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="90"
+       x1="15"
+       id="line36" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="172"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text38">9</text>
+    <line
+       stroke-width="0.5"
+       y2="170"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="170"
+       x1="15"
+       id="line40" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="132"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text42">10</text>
+    <line
+       stroke-width="0.5"
+       y2="130"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="130"
+       x1="15"
+       id="line44" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="212"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text46">11</text>
+    <line
+       stroke-width="0.5"
+       y2="210"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="210"
+       x1="15"
+       id="line48" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="202"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text50">12</text>
+    <line
+       stroke-width="0.5"
+       y2="200"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="200"
+       x1="15"
+       id="line52" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="122"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text54">13</text>
+    <line
+       stroke-width="0.5"
+       y2="120"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="120"
+       x1="15"
+       id="line56" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="102"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text58">14</text>
+    <line
+       stroke-width="0.5"
+       y2="100"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="100"
+       x1="15"
+       id="line60" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="152"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text62">15</text>
+    <line
+       stroke-width="0.5"
+       y2="150"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="150"
+       x1="15"
+       id="line64" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="262"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text66">16</text>
+    <line
+       stroke-width="0.5"
+       y2="260"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="260"
+       x1="15"
+       id="line68" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="252"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text70">17</text>
+    <line
+       stroke-width="0.5"
+       y2="250"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="250"
+       x1="15"
+       id="line72" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="182"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text74">18</text>
+    <line
+       stroke-width="0.5"
+       y2="180"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="180"
+       x1="15"
+       id="line76" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="222"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text78">19</text>
+    <line
+       stroke-width="0.5"
+       y2="220"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="220"
+       x1="15"
+       id="line80" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="292"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text82">20</text>
+    <line
+       stroke-width="0.5"
+       y2="290"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="290"
+       x1="15"
+       id="line84" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="72"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text86">21</text>
+    <line
+       stroke-width="0.5"
+       y2="70"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="70"
+       x1="15"
+       id="line88" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="322"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text90">22</text>
+    <line
+       stroke-width="0.5"
+       y2="320"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="320"
+       x1="15"
+       id="line92" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="242"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text94">23</text>
+    <line
+       stroke-width="0.5"
+       y2="240"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="240"
+       x1="15"
+       id="line96" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="162"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text98">24</text>
+    <line
+       stroke-width="0.5"
+       y2="160"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="160"
+       x1="15"
+       id="line100" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="232"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text102">25</text>
+    <line
+       stroke-width="0.5"
+       y2="230"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="230"
+       x1="15"
+       id="line104" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="312"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text106">26</text>
+    <line
+       stroke-width="0.5"
+       y2="310"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="310"
+       x1="15"
+       id="line108" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="22"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text110">27</text>
+    <line
+       stroke-width="0.5"
+       y2="20"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="20"
+       x1="15"
+       id="line112" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="142"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text114">28</text>
+    <line
+       stroke-width="0.5"
+       y2="140"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="140"
+       x1="15"
+       id="line116" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="42"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text118">29</text>
+    <line
+       stroke-width="0.5"
+       y2="40"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="40"
+       x1="15"
+       id="line120" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="32"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text122">30</text>
+    <line
+       stroke-width="0.5"
+       y2="30"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="30"
+       x1="15"
+       id="line124" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="112"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text126">31</text>
+    <line
+       stroke-width="0.5"
+       y2="110"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="110"
+       x1="15"
+       id="line128" />
+    <text
+       font-size="6"
+       text-anchor="end"
+       y="192"
+       x="10"
+       stroke-width="0"
+       fill="black"
+       id="text130">32</text>
+    <line
+       stroke-width="0.5"
+       y2="190"
+       x2="1110.0"
+       stroke-dasharray="2,2"
+       y1="190"
+       x1="15"
+       id="line132" />
+    <line
+       y2="330"
+       x1="10"
+       y1="330"
+       x2="1115.0"
+       stroke-width="0.5"
+       id="line134" />
+    <line
+       y2="330"
+       x1="1112.0"
+       y1="327"
+       x2="1115.0"
+       stroke-width="0.5"
+       id="line136" />
+    <line
+       y2="330"
+       x1="1112.0"
+       y1="333"
+       x2="1115.0"
+       stroke-width="0.5"
+       id="line138" />
+    <text
+       font-size="6"
+       y="327"
+       x="1101.0"
+       stroke-width="0"
+       fill="black"
+       id="text140">Time</text>
+    <line
+       y2="333"
+       x1="20"
+       y1="327"
+       x2="20"
+       stroke-width="0.5"
+       id="line142" />
+    <text
+       font-size="6"
+       y="337"
+       x="20"
+       stroke-width="0"
+       fill="black"
+       id="text144">0</text>
+    <line
+       y2="333"
+       x1="70"
+       y1="327"
+       x2="70"
+       stroke-width="0.5"
+       id="line146" />
+    <text
+       font-size="6"
+       y="337"
+       x="70"
+       id="text148"
+       style="font-size:6px;fill:#000000;stroke-width:0">50</text>
+    <line
+       y2="333"
+       x1="120"
+       y1="327"
+       x2="120"
+       stroke-width="0.5"
+       id="line150" />
+    <text
+       font-size="6"
+       y="337"
+       x="120"
+       id="text152"
+       style="font-size:6px;fill:#000000;stroke-width:0">100</text>
+    <line
+       y2="333"
+       x1="170"
+       y1="327"
+       x2="170"
+       stroke-width="0.5"
+       id="line154" />
+    <text
+       font-size="6"
+       y="337"
+       x="170"
+       id="text156"
+       style="font-size:6px;fill:#000000;stroke-width:0">150</text>
+    <line
+       y2="333"
+       x1="220"
+       y1="327"
+       x2="220"
+       stroke-width="0.5"
+       id="line158" />
+    <text
+       font-size="6"
+       y="337"
+       x="220"
+       id="text160"
+       style="font-size:6px;fill:#000000;stroke-width:0">200</text>
+    <line
+       y2="333"
+       x1="270"
+       y1="327"
+       x2="270"
+       stroke-width="0.5"
+       id="line162" />
+    <text
+       font-size="6"
+       y="337"
+       x="270"
+       id="text164"
+       style="font-size:6px;fill:#000000;stroke-width:0">250</text>
+    <line
+       y2="333"
+       x1="320"
+       y1="327"
+       x2="320"
+       stroke-width="0.5"
+       id="line166" />
+    <text
+       font-size="6"
+       y="337"
+       x="320"
+       id="text168"
+       style="font-size:6px;fill:#000000;stroke-width:0">300</text>
+    <line
+       y2="333"
+       x1="370"
+       y1="327"
+       x2="370"
+       stroke-width="0.5"
+       id="line170" />
+    <text
+       font-size="6"
+       y="337"
+       x="370"
+       id="text172"
+       style="font-size:6px;fill:#000000;stroke-width:0">350</text>
+    <line
+       y2="333"
+       x1="420"
+       y1="327"
+       x2="420"
+       stroke-width="0.5"
+       id="line174" />
+    <text
+       font-size="6"
+       y="337"
+       x="420"
+       id="text176"
+       style="font-size:6px;fill:#000000;stroke-width:0">400</text>
+    <line
+       y2="333"
+       x1="470"
+       y1="327"
+       x2="470"
+       stroke-width="0.5"
+       id="line178" />
+    <text
+       font-size="6"
+       y="337"
+       x="470"
+       id="text180"
+       style="font-size:6px;fill:#000000;stroke-width:0">450</text>
+    <line
+       y2="333"
+       x1="520"
+       y1="327"
+       x2="520"
+       stroke-width="0.5"
+       id="line182" />
+    <text
+       font-size="6"
+       y="337"
+       x="520"
+       id="text184"
+       style="font-size:6px;fill:#000000;stroke-width:0">500</text>
+    <line
+       y2="333"
+       x1="570"
+       y1="327"
+       x2="570"
+       stroke-width="0.5"
+       id="line186" />
+    <text
+       font-size="6"
+       y="337"
+       x="570"
+       id="text188"
+       style="font-size:6px;fill:#000000;stroke-width:0">550</text>
+    <line
+       y2="333"
+       x1="620"
+       y1="327"
+       x2="620"
+       stroke-width="0.5"
+       id="line190" />
+    <text
+       font-size="6"
+       y="337"
+       x="620"
+       id="text192"
+       style="font-size:6px;fill:#000000;stroke-width:0">600</text>
+    <line
+       y2="333"
+       x1="670"
+       y1="327"
+       x2="670"
+       stroke-width="0.5"
+       id="line194" />
+    <text
+       font-size="6"
+       y="337"
+       x="670"
+       id="text196"
+       style="font-size:6px;fill:#000000;stroke-width:0">650</text>
+    <line
+       y2="333"
+       x1="720"
+       y1="327"
+       x2="720"
+       stroke-width="0.5"
+       id="line198" />
+    <text
+       font-size="6"
+       y="337"
+       x="720"
+       id="text200"
+       style="font-size:6px;fill:#000000;stroke-width:0">700</text>
+    <line
+       y2="333"
+       x1="770"
+       y1="327"
+       x2="770"
+       stroke-width="0.5"
+       id="line202" />
+    <text
+       font-size="6"
+       y="337"
+       x="770"
+       id="text204"
+       style="font-size:6px;fill:#000000;stroke-width:0">750</text>
+    <line
+       y2="333"
+       x1="820"
+       y1="327"
+       x2="820"
+       stroke-width="0.5"
+       id="line206" />
+    <text
+       font-size="6"
+       y="337"
+       x="820"
+       id="text208"
+       style="font-size:6px;fill:#000000;stroke-width:0">800</text>
+    <line
+       y2="333"
+       x1="870"
+       y1="327"
+       x2="870"
+       stroke-width="0.5"
+       id="line210" />
+    <text
+       font-size="6"
+       y="337"
+       x="870"
+       id="text212"
+       style="font-size:6px;fill:#000000;stroke-width:0">850</text>
+    <line
+       y2="333"
+       x1="920"
+       y1="327"
+       x2="920"
+       stroke-width="0.5"
+       id="line214" />
+    <text
+       font-size="6"
+       y="337"
+       x="920"
+       id="text216"
+       style="font-size:6px;fill:#000000;stroke-width:0">900</text>
+    <line
+       y2="333"
+       x1="970"
+       y1="327"
+       x2="970"
+       stroke-width="0.5"
+       id="line218" />
+    <text
+       font-size="6"
+       y="337"
+       x="970"
+       id="text220"
+       style="font-size:6px;fill:#000000;stroke-width:0">950</text>
+    <line
+       y2="333"
+       x1="1020"
+       y1="327"
+       x2="1020"
+       stroke-width="0.5"
+       id="line222" />
+    <text
+       font-size="6"
+       y="337"
+       x="1020"
+       id="text224"
+       style="font-size:6px;fill:#000000;stroke-width:0">1000</text>
+    <line
+       y2="333"
+       x1="1070"
+       y1="327"
+       x2="1070"
+       stroke-width="0.5"
+       id="line226" />
+    <text
+       font-size="6"
+       y="337"
+       x="1070"
+       id="text228"
+       style="font-size:6px;fill:#000000;stroke-width:0">1050</text>
+    <circle
+       cy="280"
+       cx="50.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle230" />
+    <circle
+       cy="300"
+       cx="50.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle232" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M50.0,280 C52.3094010768,290 52.3094010768,290 50.0,300"
+       id="path234" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M52.3094010768,290 Q 50,292 52,290 Q 54,288 56,290 Q 58,292 60,290 Q 62,288 64,290 Q 66,292 68,290 Q 70,288 72,290 Q 74,292 76,290 Q 78,288 80,290 Q 82,292 84,290 Q 86,288 88,290"
+       id="path236" />
+    <circle
+       cy="10"
+       cx="50.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle238" />
+    <circle
+       cy="50"
+       cx="50.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle240" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M50.0,10 C54.6188021535,30 54.6188021535,30 50.0,50"
+       id="path242" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M54.6188021535,30 Q 52,32 54,30 Q 56,28 58,30 Q 60,32 62,30 Q 64,28 66,30 Q 68,32 70,30"
+       id="path244" />
+    <circle
+       cy="270"
+       cx="110.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle246" />
+    <circle
+       cy="280"
+       cx="110.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle248" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M110.0,270 C111.154700538,275 111.154700538,275 110.0,280"
+       id="path250" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M111.154700538,275 Q 109,277 111,275 Q 113,273 115,275 Q 117,277 119,275 Q 121,273 123,275 Q 125,277 127,275 Q 129,273 131,275 Q 133,277 135,275 Q 137,273 139,275 Q 141,277 143,275 Q 145,273 147,275 Q 149,277 151,275 Q 153,273 155,275 Q 157,277 159,275 Q 161,273 163,275 Q 165,277 167,275"
+       id="path252" />
+    <circle
+       cy="60"
+       cx="110.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle254" />
+    <circle
+       cy="80"
+       cx="110.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle256" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M110.0,60 C112.309401077,70 112.309401077,70 110.0,80"
+       id="path258" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M112.309401077,70 Q 110,72 112,70 Q 114,68 116,70 Q 118,72 120,70 Q 122,68 124,70 Q 126,72 128,70 Q 130,68 132,70 Q 134,72 136,70 Q 138,68 140,70 Q 142,72 144,70 Q 146,68 148,70 Q 150,72 152,70 Q 154,68 156,70 Q 158,72 160,70 Q 162,68 164,70 Q 166,72 168,70 Q 170,68 172,70 Q 174,72 176,70 Q 178,68 180,70 Q 182,72 184,70 Q 186,68 188,70 Q 190,72 192,70 Q 194,68 196,70 Q 198,72 200,70 Q 202,68 204,70 Q 206,72 208,70 Q 210,68 212,70 Q 214,72 216,70 Q 218,68 220,70 Q 222,72 224,70 Q 226,68 228,70 Q 230,72 232,70 Q 234,68 236,70 Q 238,72 240,70 Q 242,68 244,70 Q 246,72 248,70 Q 250,68 252,70 Q 254,72 256,70 Q 258,68 260,70 Q 262,72 264,70 Q 266,68 268,70 Q 270,72 272,70 Q 274,68 276,70 Q 278,72 280,70 Q 282,68 284,70 Q 286,72 288,70 Q 290,68 292,70 Q 294,72 296,70 Q 298,68 300,70 Q 302,72 304,70 Q 306,68 308,70 Q 310,72 312,70 Q 314,68 316,70 Q 318,72 320,70 Q 322,68 324,70 Q 326,72 328,70 Q 330,68 332,70 Q 334,72 336,70 Q 338,68 340,70 Q 342,72 344,70 Q 346,68 348,70 Q 350,72 352,70 Q 354,68 356,70 Q 358,72 360,70 Q 362,68 364,70 Q 366,72 368,70 Q 370,68 372,70 Q 374,72 376,70 Q 378,68 380,70 Q 382,72 384,70 Q 386,68 388,70 Q 390,72 392,70 Q 394,68 396,70 Q 398,72 400,70 Q 402,68 404,70 Q 406,72 408,70 Q 410,68 412,70 Q 414,72 416,70 Q 418,68 420,70 Q 422,72 424,70 Q 426,68 428,70 Q 430,72 432,70 Q 434,68 436,70 Q 438,72 440,70 Q 442,68 444,70 Q 446,72 448,70 Q 450,68 452,70 Q 454,72 456,70 Q 458,68 460,70 Q 462,72 464,70 Q 466,68 468,70 Q 470,72 472,70 Q 474,68 476,70 Q 478,72 480,70 Q 482,68 484,70 Q 486,72 488,70 Q 490,68 492,70 Q 494,72 496,70 Q 498,68 500,70 Q 502,72 504,70 Q 506,68 508,70 Q 510,72 512,70 Q 514,68 516,70 Q 518,72 520,70 Q 522,68 524,70 Q 526,72 528,70 Q 530,68 532,70 Q 534,72 536,70 Q 538,68 540,70 Q 542,72 544,70 Q 546,68 548,70 Q 550,72 552,70 Q 554,68 556,70 Q 558,72 560,70 Q 562,68 564,70 Q 566,72 568,70 Q 570,68 572,70 Q 574,72 576,70 Q 578,68 580,70 Q 582,72 584,70 Q 586,68 588,70 Q 590,72 592,70 Q 594,68 596,70 Q 598,72 600,70 Q 602,68 604,70 Q 606,72 608,70 Q 610,68 612,70 Q 614,72 616,70 Q 618,68 620,70 Q 622,72 624,70 Q 626,68 628,70 Q 630,72 632,70 Q 634,68 636,70 Q 638,72 640,70 Q 642,68 644,70 Q 646,72 648,70 Q 650,68 652,70 Q 654,72 656,70 Q 658,68 660,70 Q 662,72 664,70 Q 666,68 668,70 Q 670,72 672,70 Q 674,68 676,70 Q 678,72 680,70 Q 682,68 684,70 Q 686,72 688,70 Q 690,68 692,70 Q 694,72 696,70 Q 698,68 700,70 Q 702,72 704,70 Q 706,68 708,70 Q 710,72 712,70 Q 714,68 716,70 Q 718,72 720,70 Q 722,68 724,70 Q 726,72 728,70 Q 730,68 732,70 Q 734,72 736,70 Q 738,68 740,70 Q 742,72 744,70 Q 746,68 748,70 Q 750,72 752,70 Q 754,68 756,70 Q 758,72 760,70 Q 762,68 764,70 Q 766,72 768,70 Q 770,68 772,70 Q 774,72 776,70 Q 778,68 780,70 Q 782,72 784,70 Q 786,68 788,70 Q 790,72 792,70 Q 794,68 796,70 Q 798,72 800,70 Q 802,68 804,70 Q 806,72 808,70 Q 810,68 812,70 Q 814,72 816,70 Q 818,68 820,70 Q 822,72 824,70 Q 826,68 828,70 Q 830,72 832,70 Q 834,68 836,70 Q 838,72 840,70 Q 842,68 844,70 Q 846,72 848,70 Q 850,68 852,70 Q 854,72 856,70 Q 858,68 860,70 Q 862,72 864,70 Q 866,68 868,70 Q 870,72 872,70 Q 874,68 876,70 Q 878,72 880,70 Q 882,68 884,70 Q 886,72 888,70 Q 890,68 892,70 Q 894,72 896,70 Q 898,68 900,70 Q 902,72 904,70 Q 906,68 908,70 Q 910,72 912,70 Q 914,68 916,70 Q 918,72 920,70 Q 922,68 924,70 Q 926,72 928,70 Q 930,68 932,70 Q 934,72 936,70 Q 938,68 940,70 Q 942,72 944,70 Q 946,68 948,70"
+       id="path260" />
+    <circle
+       cy="90"
+       cx="130.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle262" />
+    <circle
+       cy="170"
+       cx="130.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle264" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M130.0,90 C139.237604307,130 139.237604307,130 130.0,170"
+       id="path266" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M139.237604307,130 Q 137,132 139,130 Q 141,128 143,130 Q 145,132 147,130 Q 149,128 151,130 Q 153,132 155,130"
+       id="path268" />
+    <circle
+       cy="90"
+       cx="130.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle270" />
+    <circle
+       cy="130"
+       cx="130.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle272" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M130.0,90 C134.618802154,110 134.618802154,110 130.0,130"
+       id="path274" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M134.618802154,110 Q 132,112 134,110 Q 136,108 138,110 Q 140,112 142,110 Q 144,108 146,110 Q 148,112 150,110 Q 152,108 154,110 Q 156,112 158,110 Q 160,108 162,110 Q 164,112 166,110 Q 168,108 170,110"
+       id="path276" />
+    <circle
+       cy="200"
+       cx="150.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle278" />
+    <circle
+       cy="210"
+       cx="150.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle280" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M150.0,200 C151.154700538,205 151.154700538,205 150.0,210"
+       id="path282" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M151.154700538,205 Q 149,207 151,205 Q 153,203 155,205 Q 157,207 159,205 Q 161,203 163,205 Q 165,207 167,205"
+       id="path284" />
+    <circle
+       cy="90"
+       cx="150.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle286" />
+    <circle
+       cy="120"
+       cx="150.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle288" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M150.0,90 C153.464101615,105 153.464101615,105 150.0,120"
+       id="path290" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M153.464101615,105 Q 151,107 153,105 Q 155,103 157,105 Q 159,107 161,105 Q 163,103 165,105 Q 167,107 169,105"
+       id="path292" />
+    <circle
+       cy="100"
+       cx="150.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle294" />
+    <circle
+       cy="150"
+       cx="150.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle296" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M150.0,100 C155.773502692,125 155.773502692,125 150.0,150"
+       id="path298" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M155.773502692,125 Q 153,127 155,125 Q 157,123 159,125 Q 161,127 163,125 Q 165,123 167,125 Q 169,127 171,125"
+       id="path300" />
+    <circle
+       cy="100"
+       cx="150.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle302" />
+    <circle
+       cy="210"
+       cx="150.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle304" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M150.0,100 C162.701705922,155 162.701705922,155 150.0,210"
+       id="path306" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M162.701705922,155 Q 160,157 162,155 Q 164,153 166,155 Q 168,157 170,155 Q 172,153 174,155 Q 176,157 178,155"
+       id="path308" />
+    <circle
+       cy="270"
+       cx="190.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle310" />
+    <circle
+       cy="280"
+       cx="190.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle312" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M190.0,270 C191.154700538,275 191.154700538,275 190.0,280"
+       id="path314" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M191.154700538,275 Q 189,277 191,275 Q 193,273 195,275 Q 197,277 199,275 Q 201,273 203,275 Q 205,277 207,275"
+       id="path316" />
+    <circle
+       cy="260"
+       cx="210.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle318" />
+    <circle
+       cy="280"
+       cx="210.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle320" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M210.0,260 C212.309401077,270 212.309401077,270 210.0,280"
+       id="path322" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M212.309401077,270 Q 210,272 212,270 Q 214,268 216,270 Q 218,272 220,270 Q 222,268 224,270 Q 226,272 228,270 Q 230,268 232,270 Q 234,272 236,270 Q 238,268 240,270 Q 242,272 244,270 Q 246,268 248,270"
+       id="path324" />
+    <circle
+       cy="260"
+       cx="210.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle326" />
+    <circle
+       cy="270"
+       cx="210.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle328" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M210.0,260 C211.154700538,265 211.154700538,265 210.0,270"
+       id="path330" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M211.154700538,265 Q 209,267 211,265 Q 213,263 215,265 Q 217,267 219,265 Q 221,263 223,265 Q 225,267 227,265 Q 229,263 231,265 Q 233,267 235,265 Q 237,263 239,265 Q 241,267 243,265 Q 245,263 247,265"
+       id="path332" />
+    <circle
+       cy="100"
+       cx="210.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle334" />
+    <circle
+       cy="250"
+       cx="210.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle336" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M210.0,100 C227.320508076,175 227.320508076,175 210.0,250"
+       id="path338" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M227.320508076,175 Q 225,177 227,175 Q 229,173 231,175 Q 233,177 235,175 Q 237,173 239,175 Q 241,177 243,175"
+       id="path340" />
+    <circle
+       cy="100"
+       cx="210.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle342" />
+    <circle
+       cy="180"
+       cx="210.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle344" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M210.0,100 C219.237604307,140 219.237604307,140 210.0,180"
+       id="path346" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M219.237604307,140 Q 217,142 219,140 Q 221,138 223,140 Q 225,142 227,140 Q 229,138 231,140 Q 233,142 235,140"
+       id="path348" />
+    <circle
+       cy="90"
+       cx="210.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle350" />
+    <circle
+       cy="220"
+       cx="210.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle352" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M210.0,90 C225.011106999,155 225.011106999,155 210.0,220"
+       id="path354" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M225.011106999,155 Q 223,157 225,155 Q 227,153 229,155 Q 231,157 233,155 Q 235,153 237,155 Q 239,157 241,155"
+       id="path356" />
+    <circle
+       cy="210"
+       cx="230.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle358" />
+    <circle
+       cy="220"
+       cx="230.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle360" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M230.0,210 C231.154700538,215 231.154700538,215 230.0,220"
+       id="path362" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M231.154700538,215 Q 229,217 231,215 Q 233,213 235,215 Q 237,217 239,215 Q 241,213 243,215 Q 245,217 247,215"
+       id="path364" />
+    <circle
+       cy="280"
+       cx="250.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle366" />
+    <circle
+       cy="290"
+       cx="250.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle368" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M250.0,280 C251.154700538,285 251.154700538,285 250.0,290"
+       id="path370" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M251.154700538,285 Q 249,287 251,285 Q 253,283 255,285 Q 257,287 259,285 Q 261,283 263,285 Q 265,287 267,285 Q 269,283 271,285 Q 273,287 275,285 Q 277,283 279,285 Q 281,287 283,285 Q 285,283 287,285 Q 289,287 291,285 Q 293,283 295,285 Q 297,287 299,285 Q 301,283 303,285 Q 305,287 307,285"
+       id="path372" />
+    <circle
+       cy="70"
+       cx="250.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle374" />
+    <circle
+       cy="80"
+       cx="250.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle376" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M250.0,70 C251.154700538,75 251.154700538,75 250.0,80"
+       id="path378" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M251.154700538,75 Q 249,77 251,75 Q 253,73 255,75 Q 257,77 259,75 Q 261,73 263,75 Q 265,77 267,75 Q 269,73 271,75 Q 273,77 275,75 Q 277,73 279,75 Q 281,77 283,75 Q 285,73 287,75 Q 289,77 291,75 Q 293,73 295,75 Q 297,77 299,75 Q 301,73 303,75 Q 305,77 307,75 Q 309,73 311,75 Q 313,77 315,75 Q 317,73 319,75 Q 321,77 323,75 Q 325,73 327,75 Q 329,77 331,75 Q 333,73 335,75 Q 337,77 339,75 Q 341,73 343,75 Q 345,77 347,75 Q 349,73 351,75 Q 353,77 355,75 Q 357,73 359,75 Q 361,77 363,75 Q 365,73 367,75 Q 369,77 371,75 Q 373,73 375,75 Q 377,77 379,75 Q 381,73 383,75 Q 385,77 387,75"
+       id="path380" />
+    <circle
+       cy="60"
+       cx="250.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle382" />
+    <circle
+       cy="90"
+       cx="250.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle384" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M250.0,60 C253.464101615,75 253.464101615,75 250.0,90"
+       id="path386" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M253.464101615,75 Q 251,77 253,75 Q 255,73 257,75 Q 259,77 261,75 Q 263,73 265,75 Q 267,77 269,75 Q 271,73 273,75 Q 275,77 277,75 Q 279,73 281,75 Q 283,77 285,75 Q 287,73 289,75 Q 291,77 293,75 Q 295,73 297,75 Q 299,77 301,75 Q 303,73 305,75 Q 307,77 309,75 Q 311,73 313,75 Q 315,77 317,75 Q 319,73 321,75 Q 323,77 325,75 Q 327,73 329,75 Q 331,77 333,75 Q 335,73 337,75 Q 339,77 341,75 Q 343,73 345,75 Q 347,77 349,75 Q 351,73 353,75 Q 355,77 357,75 Q 359,73 361,75 Q 363,77 365,75 Q 367,73 369,75 Q 371,77 373,75 Q 375,73 377,75 Q 379,77 381,75 Q 383,73 385,75 Q 387,77 389,75 Q 391,73 393,75 Q 395,77 397,75 Q 399,73 401,75 Q 403,77 405,75 Q 407,73 409,75 Q 411,77 413,75 Q 415,73 417,75 Q 419,77 421,75 Q 423,73 425,75 Q 427,77 429,75 Q 431,73 433,75 Q 435,77 437,75 Q 439,73 441,75 Q 443,77 445,75 Q 447,73 449,75 Q 451,77 453,75 Q 455,73 457,75 Q 459,77 461,75 Q 463,73 465,75 Q 467,77 469,75 Q 471,73 473,75 Q 475,77 477,75 Q 479,73 481,75 Q 483,77 485,75 Q 487,73 489,75 Q 491,77 493,75 Q 495,73 497,75 Q 499,77 501,75 Q 503,73 505,75 Q 507,77 509,75 Q 511,73 513,75 Q 515,77 517,75 Q 519,73 521,75 Q 523,77 525,75 Q 527,73 529,75 Q 531,77 533,75 Q 535,73 537,75 Q 539,77 541,75 Q 543,73 545,75 Q 547,77 549,75 Q 551,73 553,75 Q 555,77 557,75 Q 559,73 561,75 Q 563,77 565,75 Q 567,73 569,75 Q 571,77 573,75 Q 575,73 577,75 Q 579,77 581,75 Q 583,73 585,75 Q 587,77 589,75 Q 591,73 593,75 Q 595,77 597,75 Q 599,73 601,75 Q 603,77 605,75 Q 607,73 609,75 Q 611,77 613,75 Q 615,73 617,75 Q 619,77 621,75 Q 623,73 625,75 Q 627,77 629,75 Q 631,73 633,75 Q 635,77 637,75 Q 639,73 641,75 Q 643,77 645,75 Q 647,73 649,75 Q 651,77 653,75 Q 655,73 657,75 Q 659,77 661,75 Q 663,73 665,75 Q 667,77 669,75"
+       id="path388" />
+    <circle
+       cy="60"
+       cx="250.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle390" />
+    <circle
+       cy="70"
+       cx="250.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle392" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M250.0,60 C251.154700538,65 251.154700538,65 250.0,70"
+       id="path394" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M251.154700538,65 Q 249,67 251,65 Q 253,63 255,65 Q 257,67 259,65 Q 261,63 263,65 Q 265,67 267,65 Q 269,63 271,65 Q 273,67 275,65 Q 277,63 279,65 Q 281,67 283,65 Q 285,63 287,65 Q 289,67 291,65 Q 293,63 295,65 Q 297,67 299,65 Q 301,63 303,65 Q 305,67 307,65 Q 309,63 311,65 Q 313,67 315,65 Q 317,63 319,65 Q 321,67 323,65 Q 325,63 327,65 Q 329,67 331,65 Q 333,63 335,65 Q 337,67 339,65 Q 341,63 343,65 Q 345,67 347,65 Q 349,63 351,65 Q 353,67 355,65 Q 357,63 359,65 Q 361,67 363,65 Q 365,63 367,65 Q 369,67 371,65 Q 373,63 375,65 Q 377,67 379,65 Q 381,63 383,65 Q 385,67 387,65 Q 389,63 391,65 Q 393,67 395,65 Q 397,63 399,65 Q 401,67 403,65 Q 405,63 407,65"
+       id="path396" />
+    <circle
+       cy="300"
+       cx="250.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle398" />
+    <circle
+       cy="320"
+       cx="250.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle400" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M250.0,300 C252.309401077,310 252.309401077,310 250.0,320"
+       id="path402" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M252.309401077,310 Q 250,312 252,310 Q 254,308 256,310 Q 258,312 260,310 Q 262,308 264,310 Q 266,312 268,310"
+       id="path404" />
+    <circle
+       cy="50"
+       cx="270.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle406" />
+    <circle
+       cy="60"
+       cx="270.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle408" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M270.0,50 C271.154700538,55 271.154700538,55 270.0,60"
+       id="path410" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M271.154700538,55 Q 269,57 271,55 Q 273,53 275,55 Q 277,57 279,55 Q 281,53 283,55 Q 285,57 287,55 Q 289,53 291,55 Q 293,57 295,55 Q 297,53 299,55 Q 301,57 303,55 Q 305,53 307,55 Q 309,57 311,55 Q 313,53 315,55 Q 317,57 319,55 Q 321,53 323,55 Q 325,57 327,55"
+       id="path412" />
+    <circle
+       cy="80"
+       cx="270.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle414" />
+    <circle
+       cy="90"
+       cx="270.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle416" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M270.0,80 C271.154700538,85 271.154700538,85 270.0,90"
+       id="path418" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M271.154700538,85 Q 269,87 271,85 Q 273,83 275,85 Q 277,87 279,85 Q 281,83 283,85 Q 285,87 287,85 Q 289,83 291,85 Q 293,87 295,85 Q 297,83 299,85 Q 301,87 303,85 Q 305,83 307,85 Q 309,87 311,85 Q 313,83 315,85 Q 317,87 319,85 Q 321,83 323,85 Q 325,87 327,85"
+       id="path420" />
+    <circle
+       cy="70"
+       cx="270.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle422" />
+    <circle
+       cy="90"
+       cx="270.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle424" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M270.0,70 C272.309401077,80 272.309401077,80 270.0,90"
+       id="path426" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M272.309401077,80 Q 270,82 272,80 Q 274,78 276,80 Q 278,82 280,80 Q 282,78 284,80 Q 286,82 288,80 Q 290,78 292,80 Q 294,82 296,80 Q 298,78 300,80 Q 302,82 304,80 Q 306,78 308,80 Q 310,82 312,80 Q 314,78 316,80 Q 318,82 320,80 Q 322,78 324,80 Q 326,82 328,80"
+       id="path428" />
+    <circle
+       cy="260"
+       cx="270.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle430" />
+    <circle
+       cy="280"
+       cx="270.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle432" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M270.0,260 C272.309401077,270 272.309401077,270 270.0,280"
+       id="path434" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M272.309401077,270 Q 270,272 272,270 Q 274,268 276,270 Q 278,272 280,270 Q 282,268 284,270 Q 286,272 288,270"
+       id="path436" />
+    <circle
+       cy="50"
+       cx="290.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle438" />
+    <circle
+       cy="80"
+       cx="290.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle440" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M290.0,50 C293.464101615,65 293.464101615,65 290.0,80"
+       id="path442" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M293.464101615,65 Q 291,67 293,65 Q 295,63 297,65 Q 299,67 301,65 Q 303,63 305,65 Q 307,67 309,65"
+       id="path444" />
+    <circle
+       cy="260"
+       cx="290.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle446" />
+    <circle
+       cy="270"
+       cx="290.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle448" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M290.0,260 C291.154700538,265 291.154700538,265 290.0,270"
+       id="path450" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M291.154700538,265 Q 289,267 291,265 Q 293,263 295,265 Q 297,267 299,265 Q 301,263 303,265 Q 305,267 307,265 Q 309,263 311,265 Q 313,267 315,265 Q 317,263 319,265 Q 321,267 323,265 Q 325,263 327,265 Q 329,267 331,265 Q 333,263 335,265 Q 337,267 339,265 Q 341,263 343,265 Q 345,267 347,265 Q 349,263 351,265 Q 353,267 355,265 Q 357,263 359,265 Q 361,267 363,265 Q 365,263 367,265"
+       id="path452" />
+    <circle
+       cy="50"
+       cx="290.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle454" />
+    <circle
+       cy="90"
+       cx="290.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle456" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M290.0,50 C294.618802154,70 294.618802154,70 290.0,90"
+       id="path458" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M294.618802154,70 Q 292,72 294,70 Q 296,68 298,70 Q 300,72 302,70 Q 304,68 306,70 Q 308,72 310,70 Q 312,68 314,70 Q 316,72 318,70 Q 320,68 322,70 Q 324,72 326,70 Q 328,68 330,70 Q 332,72 334,70 Q 336,68 338,70 Q 340,72 342,70 Q 344,68 346,70 Q 348,72 350,70"
+       id="path460" />
+    <circle
+       cy="50"
+       cx="290.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle462" />
+    <circle
+       cy="70"
+       cx="290.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle464" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M290.0,50 C292.309401077,60 292.309401077,60 290.0,70"
+       id="path466" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M292.309401077,60 Q 290,62 292,60 Q 294,58 296,60 Q 298,62 300,60 Q 302,58 304,60 Q 306,62 308,60"
+       id="path468" />
+    <circle
+       cy="280"
+       cx="330.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle470" />
+    <circle
+       cy="290"
+       cx="330.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle472" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M330.0,280 C331.154700538,285 331.154700538,285 330.0,290"
+       id="path474" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M331.154700538,285 Q 329,287 331,285 Q 333,283 335,285 Q 337,287 339,285 Q 341,283 343,285 Q 345,287 347,285 Q 349,283 351,285 Q 353,287 355,285 Q 357,283 359,285 Q 361,287 363,285 Q 365,283 367,285 Q 369,287 371,285 Q 373,283 375,285 Q 377,287 379,285 Q 381,283 383,285 Q 385,287 387,285 Q 389,283 391,285 Q 393,287 395,285 Q 397,283 399,285 Q 401,287 403,285 Q 405,283 407,285"
+       id="path476" />
+    <circle
+       cy="270"
+       cx="330.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle478" />
+    <circle
+       cy="290"
+       cx="330.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle480" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M330.0,270 C332.309401077,280 332.309401077,280 330.0,290"
+       id="path482" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M332.309401077,280 Q 330,282 332,280 Q 334,278 336,280 Q 338,282 340,280 Q 342,278 344,280 Q 346,282 348,280"
+       id="path484" />
+    <circle
+       cy="50"
+       cx="330.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle486" />
+    <circle
+       cy="80"
+       cx="330.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle488" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M330.0,50 C333.464101615,65 333.464101615,65 330.0,80"
+       id="path490" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M333.464101615,65 Q 331,67 333,65 Q 335,63 337,65 Q 339,67 341,65 Q 343,63 345,65 Q 347,67 349,65"
+       id="path492" />
+    <circle
+       cy="80"
+       cx="350.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle494" />
+    <circle
+       cy="90"
+       cx="350.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle496" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M350.0,80 C351.154700538,85 351.154700538,85 350.0,90"
+       id="path498" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M351.154700538,85 Q 349,87 351,85 Q 353,83 355,85 Q 357,87 359,85 Q 361,83 363,85 Q 365,87 367,85 Q 369,83 371,85 Q 373,87 375,85 Q 377,83 379,85 Q 381,87 383,85 Q 385,83 387,85 Q 389,87 391,85 Q 393,83 395,85 Q 397,87 399,85 Q 401,83 403,85 Q 405,87 407,85 Q 409,83 411,85 Q 413,87 415,85 Q 417,83 419,85 Q 421,87 423,85 Q 425,83 427,85"
+       id="path500" />
+    <circle
+       cy="210"
+       cx="350.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle502" />
+    <circle
+       cy="220"
+       cx="350.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle504" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M350.0,210 C351.154700538,215 351.154700538,215 350.0,220"
+       id="path506" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M351.154700538,215 Q 349,217 351,215 Q 353,213 355,215 Q 357,217 359,215 Q 361,213 363,215 Q 365,217 367,215"
+       id="path508" />
+    <circle
+       cy="70"
+       cx="350.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle510" />
+    <circle
+       cy="90"
+       cx="350.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle512" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M350.0,70 C352.309401077,80 352.309401077,80 350.0,90"
+       id="path514" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M352.309401077,80 Q 350,82 352,80 Q 354,78 356,80 Q 358,82 360,80 Q 362,78 364,80 Q 366,82 368,80 Q 370,78 372,80 Q 374,82 376,80 Q 378,78 380,80 Q 382,82 384,80 Q 386,78 388,80 Q 390,82 392,80 Q 394,78 396,80 Q 398,82 400,80 Q 402,78 404,80 Q 406,82 408,80"
+       id="path516" />
+    <circle
+       cy="50"
+       cx="350.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle518" />
+    <circle
+       cy="60"
+       cx="350.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle520" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M350.0,50 C351.154700538,55 351.154700538,55 350.0,60"
+       id="path522" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M351.154700538,55 Q 349,57 351,55 Q 353,53 355,55 Q 357,57 359,55 Q 361,53 363,55 Q 365,57 367,55"
+       id="path524" />
+    <circle
+       cy="260"
+       cx="370.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle526" />
+    <circle
+       cy="280"
+       cx="370.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle528" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M370.0,260 C372.309401077,270 372.309401077,270 370.0,280"
+       id="path530" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M372.309401077,270 Q 370,272 372,270 Q 374,268 376,270 Q 378,272 380,270 Q 382,268 384,270 Q 386,272 388,270"
+       id="path532" />
+    <circle
+       cy="220"
+       cx="390.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle534" />
+    <circle
+       cy="240"
+       cx="390.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle536" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M390.0,220 C392.309401077,230 392.309401077,230 390.0,240"
+       id="path538" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M392.309401077,230 Q 390,232 392,230 Q 394,228 396,230 Q 398,232 400,230 Q 402,228 404,230 Q 406,232 408,230"
+       id="path540" />
+    <circle
+       cy="50"
+       cx="390.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle542" />
+    <circle
+       cy="150"
+       cx="390.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle544" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M390.0,50 C401.547005384,100 401.547005384,100 390.0,150"
+       id="path546" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M401.547005384,100 Q 399,102 401,100 Q 403,98 405,100 Q 407,102 409,100 Q 411,98 413,100 Q 415,102 417,100 Q 419,98 421,100 Q 423,102 425,100 Q 427,98 429,100 Q 431,102 433,100 Q 435,98 437,100 Q 439,102 441,100 Q 443,98 445,100 Q 447,102 449,100 Q 451,98 453,100 Q 455,102 457,100 Q 459,98 461,100 Q 463,102 465,100 Q 467,98 469,100 Q 471,102 473,100 Q 475,98 477,100"
+       id="path548" />
+    <circle
+       cy="260"
+       cx="390.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle550" />
+    <circle
+       cy="270"
+       cx="390.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle552" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M390.0,260 C391.154700538,265 391.154700538,265 390.0,270"
+       id="path554" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M391.154700538,265 Q 389,267 391,265 Q 393,263 395,265 Q 397,267 399,265 Q 401,263 403,265 Q 405,267 407,265 Q 409,263 411,265 Q 413,267 415,265 Q 417,263 419,265 Q 421,267 423,265 Q 425,263 427,265"
+       id="path556" />
+    <circle
+       cy="280"
+       cx="430.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle558" />
+    <circle
+       cy="290"
+       cx="430.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle560" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M430.0,280 C431.154700538,285 431.154700538,285 430.0,290"
+       id="path562" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M431.154700538,285 Q 429,287 431,285 Q 433,283 435,285 Q 437,287 439,285 Q 441,283 443,285 Q 445,287 447,285 Q 449,283 451,285 Q 453,287 455,285 Q 457,283 459,285 Q 461,287 463,285 Q 465,283 467,285"
+       id="path564" />
+    <circle
+       cy="70"
+       cx="430.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle566" />
+    <circle
+       cy="150"
+       cx="430.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle568" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M430.0,70 C439.237604307,110 439.237604307,110 430.0,150"
+       id="path570" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M439.237604307,110 Q 437,112 439,110 Q 441,108 443,110 Q 445,112 447,110 Q 449,108 451,110 Q 453,112 455,110 Q 457,108 459,110 Q 461,112 463,110 Q 465,108 467,110 Q 469,112 471,110 Q 473,108 475,110"
+       id="path572" />
+    <circle
+       cy="80"
+       cx="450.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle574" />
+    <circle
+       cy="90"
+       cx="450.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle576" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M450.0,80 C451.154700538,85 451.154700538,85 450.0,90"
+       id="path578" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M451.154700538,85 Q 449,87 451,85 Q 453,83 455,85 Q 457,87 459,85 Q 461,83 463,85 Q 465,87 467,85 Q 469,83 471,85 Q 473,87 475,85 Q 477,83 479,85 Q 481,87 483,85 Q 485,83 487,85 Q 489,87 491,85 Q 493,83 495,85 Q 497,87 499,85 Q 501,83 503,85 Q 505,87 507,85 Q 509,83 511,85 Q 513,87 515,85 Q 517,83 519,85 Q 521,87 523,85 Q 525,83 527,85 Q 529,87 531,85 Q 533,83 535,85 Q 537,87 539,85 Q 541,83 543,85 Q 545,87 547,85 Q 549,83 551,85 Q 553,87 555,85 Q 557,83 559,85 Q 561,87 563,85 Q 565,83 567,85"
+       id="path580" />
+    <circle
+       cy="60"
+       cx="450.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle582" />
+    <circle
+       cy="150"
+       cx="450.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle584" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M450.0,60 C460.392304845,105 460.392304845,105 450.0,150"
+       id="path586" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M460.392304845,105 Q 458,107 460,105 Q 462,103 464,105 Q 466,107 468,105 Q 470,103 472,105 Q 474,107 476,105 Q 478,103 480,105 Q 482,107 484,105 Q 486,103 488,105 Q 490,107 492,105 Q 494,103 496,105"
+       id="path588" />
+    <circle
+       cy="150"
+       cx="470.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle590" />
+    <circle
+       cy="160"
+       cx="470.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle592" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M470.0,150 C471.154700538,155 471.154700538,155 470.0,160"
+       id="path594" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M471.154700538,155 Q 469,157 471,155 Q 473,153 475,155 Q 477,157 479,155 Q 481,153 483,155 Q 485,157 487,155 Q 489,153 491,155 Q 493,157 495,155 Q 497,153 499,155 Q 501,157 503,155 Q 505,153 507,155 Q 509,157 511,155 Q 513,153 515,155 Q 517,157 519,155 Q 521,153 523,155 Q 525,157 527,155 Q 529,153 531,155 Q 533,157 535,155 Q 537,153 539,155 Q 541,157 543,155 Q 545,153 547,155 Q 549,157 551,155 Q 553,153 555,155 Q 557,157 559,155 Q 561,153 563,155 Q 565,157 567,155 Q 569,153 571,155 Q 573,157 575,155 Q 577,153 579,155 Q 581,157 583,155 Q 585,153 587,155 Q 589,157 591,155 Q 593,153 595,155 Q 597,157 599,155 Q 601,153 603,155 Q 605,157 607,155 Q 609,153 611,155 Q 613,157 615,155 Q 617,153 619,155 Q 621,157 623,155 Q 625,153 627,155 Q 629,157 631,155 Q 633,153 635,155 Q 637,157 639,155 Q 641,153 643,155 Q 645,157 647,155 Q 649,153 651,155 Q 653,157 655,155 Q 657,153 659,155 Q 661,157 663,155 Q 665,153 667,155 Q 669,157 671,155 Q 673,153 675,155 Q 677,157 679,155 Q 681,153 683,155 Q 685,157 687,155 Q 689,153 691,155 Q 693,157 695,155 Q 697,153 699,155 Q 701,157 703,155 Q 705,153 707,155 Q 709,157 711,155 Q 713,153 715,155 Q 717,157 719,155 Q 721,153 723,155 Q 725,157 727,155"
+       id="path596" />
+    <circle
+       cy="90"
+       cx="470.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle598" />
+    <circle
+       cy="150"
+       cx="470.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle600" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M470.0,90 C476.92820323,120 476.92820323,120 470.0,150"
+       id="path602" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M476.92820323,120 Q 474,122 476,120 Q 478,118 480,120 Q 482,122 484,120 Q 486,118 488,120 Q 490,122 492,120"
+       id="path604" />
+    <circle
+       cy="80"
+       cx="470.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle606" />
+    <circle
+       cy="150"
+       cx="470.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle608" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M470.0,80 C478.082903769,115 478.082903769,115 470.0,150"
+       id="path610" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M478.082903769,115 Q 476,117 478,115 Q 480,113 482,115 Q 484,117 486,115 Q 488,113 490,115 Q 492,117 494,115"
+       id="path612" />
+    <circle
+       cy="280"
+       cx="490.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle614" />
+    <circle
+       cy="290"
+       cx="490.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle616" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M490.0,280 C491.154700538,285 491.154700538,285 490.0,290"
+       id="path618" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M491.154700538,285 Q 489,287 491,285 Q 493,283 495,285 Q 497,287 499,285 Q 501,283 503,285 Q 505,287 507,285"
+       id="path620" />
+    <circle
+       cy="50"
+       cx="490.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle622" />
+    <circle
+       cy="100"
+       cx="490.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle624" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M490.0,50 C495.773502692,75 495.773502692,75 490.0,100"
+       id="path626" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M495.773502692,75 Q 493,77 495,75 Q 497,73 499,75 Q 501,77 503,75 Q 505,73 507,75 Q 509,77 511,75 Q 513,73 515,75 Q 517,77 519,75 Q 521,73 523,75 Q 525,77 527,75 Q 529,73 531,75"
+       id="path628" />
+    <circle
+       cy="210"
+       cx="530.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle630" />
+    <circle
+       cy="220"
+       cx="530.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle632" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M530.0,210 C531.154700538,215 531.154700538,215 530.0,220"
+       id="path634" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M531.154700538,215 Q 529,217 531,215 Q 533,213 535,215 Q 537,217 539,215 Q 541,213 543,215 Q 545,217 547,215 Q 549,213 551,215 Q 553,217 555,215 Q 557,213 559,215 Q 561,217 563,215 Q 565,213 567,215"
+       id="path636" />
+    <circle
+       cy="280"
+       cx="530.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle638" />
+    <circle
+       cy="290"
+       cx="530.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle640" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M530.0,280 C531.154700538,285 531.154700538,285 530.0,290"
+       id="path642" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M531.154700538,285 Q 529,287 531,285 Q 533,283 535,285 Q 537,287 539,285 Q 541,283 543,285 Q 545,287 547,285"
+       id="path644" />
+    <circle
+       cy="50"
+       cx="550.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle646" />
+    <circle
+       cy="160"
+       cx="550.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle648" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M550.0,50 C562.701705922,105 562.701705922,105 550.0,160"
+       id="path650" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M562.701705922,105 Q 560,107 562,105 Q 564,103 566,105 Q 568,107 570,105 Q 572,103 574,105 Q 576,107 578,105"
+       id="path652" />
+    <circle
+       cy="230"
+       cx="570.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle654" />
+    <circle
+       cy="240"
+       cx="570.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle656" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M570.0,230 C571.154700538,235 571.154700538,235 570.0,240"
+       id="path658" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M571.154700538,235 Q 569,237 571,235 Q 573,233 575,235 Q 577,237 579,235 Q 581,233 583,235 Q 585,237 587,235"
+       id="path660" />
+    <circle
+       cy="270"
+       cx="570.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle662" />
+    <circle
+       cy="280"
+       cx="570.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle664" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M570.0,270 C571.154700538,275 571.154700538,275 570.0,280"
+       id="path666" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M571.154700538,275 Q 569,277 571,275 Q 573,273 575,275 Q 577,277 579,275 Q 581,273 583,275 Q 585,277 587,275"
+       id="path668" />
+    <circle
+       cy="210"
+       cx="590.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle670" />
+    <circle
+       cy="220"
+       cx="590.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle672" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M590.0,210 C591.154700538,215 591.154700538,215 590.0,220"
+       id="path674" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M591.154700538,215 Q 589,217 591,215 Q 593,213 595,215 Q 597,217 599,215 Q 601,213 603,215 Q 605,217 607,215"
+       id="path676" />
+    <circle
+       cy="220"
+       cx="590.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle678" />
+    <circle
+       cy="240"
+       cx="590.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle680" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M590.0,220 C592.309401077,230 592.309401077,230 590.0,240"
+       id="path682" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M592.309401077,230 Q 590,232 592,230 Q 594,228 596,230 Q 598,232 600,230 Q 602,228 604,230 Q 606,232 608,230"
+       id="path684" />
+    <circle
+       cy="80"
+       cx="610.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle686" />
+    <circle
+       cy="90"
+       cx="610.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle688" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M610.0,80 C611.154700538,85 611.154700538,85 610.0,90"
+       id="path690" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M611.154700538,85 Q 609,87 611,85 Q 613,83 615,85 Q 617,87 619,85 Q 621,83 623,85 Q 625,87 627,85"
+       id="path692" />
+    <circle
+       cy="230"
+       cx="630.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle694" />
+    <circle
+       cy="240"
+       cx="630.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle696" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M630.0,230 C631.154700538,235 631.154700538,235 630.0,240"
+       id="path698" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M631.154700538,235 Q 629,237 631,235 Q 633,233 635,235 Q 637,237 639,235 Q 641,233 643,235 Q 645,237 647,235"
+       id="path700" />
+    <circle
+       cy="230"
+       cx="670.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle702" />
+    <circle
+       cy="240"
+       cx="670.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle704" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M670.0,230 C671.154700538,235 671.154700538,235 670.0,240"
+       id="path706" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M671.154700538,235 Q 669,237 671,235 Q 673,233 675,235 Q 677,237 679,235 Q 681,233 683,235 Q 685,237 687,235"
+       id="path708" />
+    <circle
+       cy="210"
+       cx="670.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle710" />
+    <circle
+       cy="230"
+       cx="670.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle712" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M670.0,210 C672.309401077,220 672.309401077,220 670.0,230"
+       id="path714" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M672.309401077,220 Q 670,222 672,220 Q 674,218 676,220 Q 678,222 680,220 Q 682,218 684,220 Q 686,222 688,220"
+       id="path716" />
+    <circle
+       cy="280"
+       cx="710.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle718" />
+    <circle
+       cy="300"
+       cx="710.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle720" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M710.0,280 C712.309401077,290 712.309401077,290 710.0,300"
+       id="path722" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M712.309401077,290 Q 710,292 712,290 Q 714,288 716,290 Q 718,292 720,290 Q 722,288 724,290 Q 726,292 728,290"
+       id="path724" />
+    <circle
+       cy="230"
+       cx="710.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle726" />
+    <circle
+       cy="240"
+       cx="710.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle728" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M710.0,230 C711.154700538,235 711.154700538,235 710.0,240"
+       id="path730" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M711.154700538,235 Q 709,237 711,235 Q 713,233 715,235 Q 717,237 719,235 Q 721,233 723,235 Q 725,237 727,235 Q 729,233 731,235 Q 733,237 735,235 Q 737,233 739,235 Q 741,237 743,235 Q 745,233 747,235 Q 749,237 751,235 Q 753,233 755,235 Q 757,237 759,235 Q 761,233 763,235 Q 765,237 767,235 Q 769,233 771,235 Q 773,237 775,235 Q 777,233 779,235 Q 781,237 783,235 Q 785,233 787,235"
+       id="path732" />
+    <circle
+       cy="220"
+       cx="710.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle734" />
+    <circle
+       cy="230"
+       cx="710.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle736" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M710.0,220 C711.154700538,225 711.154700538,225 710.0,230"
+       id="path738" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M711.154700538,225 Q 709,227 711,225 Q 713,223 715,225 Q 717,227 719,225 Q 721,223 723,225 Q 725,227 727,225"
+       id="path740" />
+    <circle
+       cy="80"
+       cx="730.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle742" />
+    <circle
+       cy="100"
+       cx="730.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle744" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M730.0,80 C732.309401077,90 732.309401077,90 730.0,100"
+       id="path746" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M732.309401077,90 Q 730,92 732,90 Q 734,88 736,90 Q 738,92 740,90 Q 742,88 744,90 Q 746,92 748,90 Q 750,88 752,90 Q 754,92 756,90 Q 758,88 760,90 Q 762,92 764,90 Q 766,88 768,90 Q 770,92 772,90 Q 774,88 776,90 Q 778,92 780,90 Q 782,88 784,90 Q 786,92 788,90 Q 790,88 792,90 Q 794,92 796,90 Q 798,88 800,90 Q 802,92 804,90 Q 806,88 808,90 Q 810,92 812,90 Q 814,88 816,90 Q 818,92 820,90 Q 822,88 824,90 Q 826,92 828,90"
+       id="path748" />
+    <circle
+       cy="90"
+       cx="730.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle750" />
+    <circle
+       cy="100"
+       cx="730.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle752" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M730.0,90 C731.154700538,95 731.154700538,95 730.0,100"
+       id="path754" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M731.154700538,95 Q 729,97 731,95 Q 733,93 735,95 Q 737,97 739,95 Q 741,93 743,95 Q 745,97 747,95 Q 749,93 751,95 Q 753,97 755,95 Q 757,93 759,95 Q 761,97 763,95 Q 765,93 767,95 Q 769,97 771,95 Q 773,93 775,95 Q 777,97 779,95 Q 781,93 783,95 Q 785,97 787,95 Q 789,93 791,95 Q 793,97 795,95 Q 797,93 799,95 Q 801,97 803,95 Q 805,93 807,95"
+       id="path756" />
+    <circle
+       cy="150"
+       cx="730.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle758" />
+    <circle
+       cy="280"
+       cx="730.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle760" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M730.0,150 C745.011106999,215 745.011106999,215 730.0,280"
+       id="path762" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M745.011106999,215 Q 743,217 745,215 Q 747,213 749,215 Q 751,217 753,215 Q 755,213 757,215 Q 759,217 761,215"
+       id="path764" />
+    <circle
+       cy="50"
+       cx="730.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle766" />
+    <circle
+       cy="260"
+       cx="730.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle768" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M730.0,50 C754.248711306,155 754.248711306,155 730.0,260"
+       id="path770" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M754.248711306,155 Q 752,157 754,155 Q 756,153 758,155 Q 760,157 762,155 Q 764,153 766,155 Q 768,157 770,155"
+       id="path772" />
+    <circle
+       cy="280"
+       cx="750.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle774" />
+    <circle
+       cy="300"
+       cx="750.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle776" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M750.0,280 C752.309401077,290 752.309401077,290 750.0,300"
+       id="path778" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M752.309401077,290 Q 750,292 752,290 Q 754,288 756,290 Q 758,292 760,290 Q 762,288 764,290 Q 766,292 768,290"
+       id="path780" />
+    <circle
+       cy="150"
+       cx="750.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle782" />
+    <circle
+       cy="160"
+       cx="750.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle784" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M750.0,150 C751.154700538,155 751.154700538,155 750.0,160"
+       id="path786" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M751.154700538,155 Q 749,157 751,155 Q 753,153 755,155 Q 757,157 759,155 Q 761,153 763,155 Q 765,157 767,155 Q 769,153 771,155 Q 773,157 775,155 Q 777,153 779,155 Q 781,157 783,155 Q 785,153 787,155 Q 789,157 791,155 Q 793,153 795,155 Q 797,157 799,155 Q 801,153 803,155 Q 805,157 807,155 Q 809,153 811,155 Q 813,157 815,155 Q 817,153 819,155 Q 821,157 823,155 Q 825,153 827,155 Q 829,157 831,155 Q 833,153 835,155 Q 837,157 839,155 Q 841,153 843,155 Q 845,157 847,155 Q 849,153 851,155 Q 853,157 855,155 Q 857,153 859,155 Q 861,157 863,155 Q 865,153 867,155 Q 869,157 871,155 Q 873,153 875,155 Q 877,157 879,155 Q 881,153 883,155 Q 885,157 887,155 Q 889,153 891,155 Q 893,157 895,155 Q 897,153 899,155 Q 901,157 903,155 Q 905,153 907,155 Q 909,157 911,155 Q 913,153 915,155 Q 917,157 919,155 Q 921,153 923,155 Q 925,157 927,155 Q 929,153 931,155 Q 933,157 935,155 Q 937,153 939,155 Q 941,157 943,155 Q 945,153 947,155 Q 949,157 951,155 Q 953,153 955,155 Q 957,157 959,155 Q 961,153 963,155 Q 965,157 967,155"
+       id="path788" />
+    <circle
+       cy="70"
+       cx="750.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle790" />
+    <circle
+       cy="100"
+       cx="750.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle792" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M750.0,70 C753.464101615,85 753.464101615,85 750.0,100"
+       id="path794" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M753.464101615,85 Q 751,87 753,85 Q 755,83 757,85 Q 759,87 761,85 Q 763,83 765,85 Q 767,87 769,85 Q 771,83 773,85 Q 775,87 777,85 Q 779,83 781,85 Q 783,87 785,85 Q 787,83 789,85 Q 791,87 793,85 Q 795,83 797,85 Q 799,87 801,85 Q 803,83 805,85 Q 807,87 809,85 Q 811,83 813,85 Q 815,87 817,85 Q 819,83 821,85 Q 823,87 825,85 Q 827,83 829,85 Q 831,87 833,85 Q 835,83 837,85 Q 839,87 841,85 Q 843,83 845,85 Q 847,87 849,85 Q 851,83 853,85 Q 855,87 857,85 Q 859,83 861,85 Q 863,87 865,85 Q 867,83 869,85 Q 871,87 873,85 Q 875,83 877,85 Q 879,87 881,85 Q 883,83 885,85 Q 887,87 889,85 Q 891,83 893,85 Q 895,87 897,85 Q 899,83 901,85 Q 903,87 905,85 Q 907,83 909,85 Q 911,87 913,85 Q 915,83 917,85 Q 919,87 921,85 Q 923,83 925,85 Q 927,87 929,85 Q 931,83 933,85 Q 935,87 937,85 Q 939,83 941,85 Q 943,87 945,85 Q 947,83 949,85"
+       id="path796" />
+    <circle
+       cy="270"
+       cx="770.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle798" />
+    <circle
+       cy="280"
+       cx="770.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle800" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M770.0,270 C771.154700538,275 771.154700538,275 770.0,280"
+       id="path802" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M771.154700538,275 Q 769,277 771,275 Q 773,273 775,275 Q 777,277 779,275 Q 781,273 783,275 Q 785,277 787,275"
+       id="path804" />
+    <circle
+       cy="210"
+       cx="770.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle806" />
+    <circle
+       cy="220"
+       cx="770.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle808" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M770.0,210 C771.154700538,215 771.154700538,215 770.0,220"
+       id="path810" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M771.154700538,215 Q 769,217 771,215 Q 773,213 775,215 Q 777,217 779,215 Q 781,213 783,215 Q 785,217 787,215"
+       id="path812" />
+    <circle
+       cy="70"
+       cx="790.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle814" />
+    <circle
+       cy="80"
+       cx="790.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle816" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M790.0,70 C791.154700538,75 791.154700538,75 790.0,80"
+       id="path818" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M791.154700538,75 Q 789,77 791,75 Q 793,73 795,75 Q 797,77 799,75 Q 801,73 803,75 Q 805,77 807,75 Q 809,73 811,75 Q 813,77 815,75 Q 817,73 819,75 Q 821,77 823,75 Q 825,73 827,75"
+       id="path820" />
+    <circle
+       cy="60"
+       cx="790.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle822" />
+    <circle
+       cy="70"
+       cx="790.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle824" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M790.0,60 C791.154700538,65 791.154700538,65 790.0,70"
+       id="path826" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M791.154700538,65 Q 789,67 791,65 Q 793,63 795,65 Q 797,67 799,65 Q 801,63 803,65 Q 805,67 807,65 Q 809,63 811,65 Q 813,67 815,65 Q 817,63 819,65 Q 821,67 823,65 Q 825,63 827,65 Q 829,67 831,65 Q 833,63 835,65 Q 837,67 839,65 Q 841,63 843,65 Q 845,67 847,65 Q 849,63 851,65 Q 853,67 855,65 Q 857,63 859,65 Q 861,67 863,65 Q 865,63 867,65"
+       id="path828" />
+    <circle
+       cy="60"
+       cx="790.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle830" />
+    <circle
+       cy="90"
+       cx="790.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle832" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M790.0,60 C793.464101615,75 793.464101615,75 790.0,90"
+       id="path834" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M793.464101615,75 Q 791,77 793,75 Q 795,73 797,75 Q 799,77 801,75 Q 803,73 805,75 Q 807,77 809,75 Q 811,73 813,75 Q 815,77 817,75 Q 819,73 821,75 Q 823,77 825,75 Q 827,73 829,75 Q 831,77 833,75 Q 835,73 837,75 Q 839,77 841,75 Q 843,73 845,75 Q 847,77 849,75 Q 851,73 853,75 Q 855,77 857,75 Q 859,73 861,75 Q 863,77 865,75 Q 867,73 869,75 Q 871,77 873,75 Q 875,73 877,75 Q 879,77 881,75 Q 883,73 885,75 Q 887,77 889,75 Q 891,73 893,75 Q 895,77 897,75 Q 899,73 901,75 Q 903,77 905,75 Q 907,73 909,75 Q 911,77 913,75 Q 915,73 917,75 Q 919,77 921,75 Q 923,73 925,75 Q 927,77 929,75 Q 931,73 933,75 Q 935,77 937,75 Q 939,73 941,75 Q 943,77 945,75 Q 947,73 949,75"
+       id="path836" />
+    <circle
+       cy="80"
+       cx="810.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle838" />
+    <circle
+       cy="90"
+       cx="810.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle840" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M810.0,80 C811.154700538,85 811.154700538,85 810.0,90"
+       id="path842" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M811.154700538,85 Q 809,87 811,85 Q 813,83 815,85 Q 817,87 819,85 Q 821,83 823,85 Q 825,87 827,85"
+       id="path844" />
+    <circle
+       cy="270"
+       cx="810.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle846" />
+    <circle
+       cy="280"
+       cx="810.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle848" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M810.0,270 C811.154700538,275 811.154700538,275 810.0,280"
+       id="path850" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M811.154700538,275 Q 809,277 811,275 Q 813,273 815,275 Q 817,277 819,275 Q 821,273 823,275 Q 825,277 827,275 Q 829,273 831,275 Q 833,277 835,275 Q 837,273 839,275 Q 841,277 843,275 Q 845,273 847,275 Q 849,277 851,275 Q 853,273 855,275 Q 857,277 859,275 Q 861,273 863,275 Q 865,277 867,275"
+       id="path852" />
+    <circle
+       cy="60"
+       cx="810.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle854" />
+    <circle
+       cy="100"
+       cx="810.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle856" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M810.0,60 C814.618802154,80 814.618802154,80 810.0,100"
+       id="path858" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M814.618802154,80 Q 812,82 814,80 Q 816,78 818,80 Q 820,82 822,80 Q 824,78 826,80 Q 828,82 830,80 Q 832,78 834,80 Q 836,82 838,80 Q 840,78 842,80 Q 844,82 846,80 Q 848,78 850,80 Q 852,82 854,80 Q 856,78 858,80 Q 860,82 862,80 Q 864,78 866,80 Q 868,82 870,80 Q 872,78 874,80 Q 876,82 878,80 Q 880,78 882,80 Q 884,82 886,80 Q 888,78 890,80 Q 892,82 894,80 Q 896,78 898,80 Q 900,82 902,80 Q 904,78 906,80 Q 908,82 910,80 Q 912,78 914,80 Q 916,82 918,80 Q 920,78 922,80 Q 924,82 926,80 Q 928,78 930,80 Q 932,82 934,80 Q 936,78 938,80 Q 940,82 942,80 Q 944,78 946,80 Q 948,82 950,80"
+       id="path860" />
+    <circle
+       cy="230"
+       cx="850.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle862" />
+    <circle
+       cy="240"
+       cx="850.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle864" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M850.0,230 C851.154700538,235 851.154700538,235 850.0,240"
+       id="path866" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M851.154700538,235 Q 849,237 851,235 Q 853,233 855,235 Q 857,237 859,235 Q 861,233 863,235 Q 865,237 867,235"
+       id="path868" />
+    <circle
+       cy="80"
+       cx="850.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle870" />
+    <circle
+       cy="100"
+       cx="850.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle872" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M850.0,80 C852.309401077,90 852.309401077,90 850.0,100"
+       id="path874" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M852.309401077,90 Q 850,92 852,90 Q 854,88 856,90 Q 858,92 860,90 Q 862,88 864,90 Q 866,92 868,90"
+       id="path876" />
+    <circle
+       cy="80"
+       cx="850.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle878" />
+    <circle
+       cy="90"
+       cx="850.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle880" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M850.0,80 C851.154700538,85 851.154700538,85 850.0,90"
+       id="path882" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M851.154700538,85 Q 849,87 851,85 Q 853,83 855,85 Q 857,87 859,85 Q 861,83 863,85 Q 865,87 867,85 Q 869,83 871,85 Q 873,87 875,85 Q 877,83 879,85 Q 881,87 883,85 Q 885,83 887,85 Q 889,87 891,85 Q 893,83 895,85 Q 897,87 899,85 Q 901,83 903,85 Q 905,87 907,85 Q 909,83 911,85 Q 913,87 915,85 Q 917,83 919,85 Q 921,87 923,85 Q 925,83 927,85"
+       id="path884" />
+    <circle
+       cy="70"
+       cx="870.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle886" />
+    <circle
+       cy="80"
+       cx="870.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle888" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M870.0,70 C871.154700538,75 871.154700538,75 870.0,80"
+       id="path890" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M871.154700538,75 Q 869,77 871,75 Q 873,73 875,75 Q 877,77 879,75 Q 881,73 883,75 Q 885,77 887,75"
+       id="path892" />
+    <circle
+       cy="290"
+       cx="870.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle894" />
+    <circle
+       cy="310"
+       cx="870.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle896" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M870.0,290 C872.309401077,300 872.309401077,300 870.0,310"
+       id="path898" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M872.309401077,300 Q 870,302 872,300 Q 874,298 876,300 Q 878,302 880,300 Q 882,298 884,300 Q 886,302 888,300"
+       id="path900" />
+    <circle
+       cy="230"
+       cx="890.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle902" />
+    <circle
+       cy="240"
+       cx="890.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle904" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M890.0,230 C891.154700538,235 891.154700538,235 890.0,240"
+       id="path906" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M891.154700538,235 Q 889,237 891,235 Q 893,233 895,235 Q 897,237 899,235 Q 901,233 903,235 Q 905,237 907,235 Q 909,233 911,235 Q 913,237 915,235 Q 917,233 919,235 Q 921,237 923,235 Q 925,233 927,235"
+       id="path908" />
+    <circle
+       cy="80"
+       cx="890.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle910" />
+    <circle
+       cy="100"
+       cx="890.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle912" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M890.0,80 C892.309401077,90 892.309401077,90 890.0,100"
+       id="path914" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M892.309401077,90 Q 890,92 892,90 Q 894,88 896,90 Q 898,92 900,90 Q 902,88 904,90 Q 906,92 908,90"
+       id="path916" />
+    <circle
+       cy="90"
+       cx="890.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle918" />
+    <circle
+       cy="100"
+       cx="890.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle920" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M890.0,90 C891.154700538,95 891.154700538,95 890.0,100"
+       id="path922" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M891.154700538,95 Q 889,97 891,95 Q 893,93 895,95 Q 897,97 899,95 Q 901,93 903,95 Q 905,97 907,95"
+       id="path924" />
+    <circle
+       cy="210"
+       cx="890.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle926" />
+    <circle
+       cy="230"
+       cx="890.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle928" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M890.0,210 C892.309401077,220 892.309401077,220 890.0,230"
+       id="path930" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M892.309401077,220 Q 890,222 892,220 Q 894,218 896,220 Q 898,222 900,220 Q 902,218 904,220 Q 906,222 908,220 Q 910,218 912,220 Q 914,222 916,220 Q 918,218 920,220 Q 922,222 924,220 Q 926,218 928,220"
+       id="path932" />
+    <circle
+       cy="220"
+       cx="890.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle934" />
+    <circle
+       cy="240"
+       cx="890.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle936" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M890.0,220 C892.309401077,230 892.309401077,230 890.0,240"
+       id="path938" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M892.309401077,230 Q 890,232 892,230 Q 894,228 896,230 Q 898,232 900,230 Q 902,228 904,230 Q 906,232 908,230"
+       id="path940" />
+    <circle
+       cy="280"
+       cx="910.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle942" />
+    <circle
+       cy="300"
+       cx="910.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle944" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M910.0,280 C912.309401077,290 912.309401077,290 910.0,300"
+       id="path946" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M912.309401077,290 Q 910,292 912,290 Q 914,288 916,290 Q 918,292 920,290 Q 922,288 924,290 Q 926,292 928,290"
+       id="path948" />
+    <circle
+       cy="250"
+       cx="910.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle950" />
+    <circle
+       cy="270"
+       cx="910.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle952" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M910.0,250 C912.309401077,260 912.309401077,260 910.0,270"
+       id="path954" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M912.309401077,260 Q 910,262 912,260 Q 914,258 916,260 Q 918,262 920,260 Q 922,258 924,260 Q 926,262 928,260 Q 930,258 932,260 Q 934,262 936,260 Q 938,258 940,260 Q 942,262 944,260 Q 946,258 948,260"
+       id="path956" />
+    <circle
+       cy="270"
+       cx="910.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle958" />
+    <circle
+       cy="280"
+       cx="910.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle960" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M910.0,270 C911.154700538,275 911.154700538,275 910.0,280"
+       id="path962" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M911.154700538,275 Q 909,277 911,275 Q 913,273 915,275 Q 917,277 919,275 Q 921,273 923,275 Q 925,277 927,275"
+       id="path964" />
+    <circle
+       cy="220"
+       cx="910.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle966" />
+    <circle
+       cy="230"
+       cx="910.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle968" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M910.0,220 C911.154700538,225 911.154700538,225 910.0,230"
+       id="path970" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M911.154700538,225 Q 909,227 911,225 Q 913,223 915,225 Q 917,227 919,225 Q 921,223 923,225 Q 925,227 927,225"
+       id="path972" />
+    <circle
+       cy="60"
+       cx="910.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle974" />
+    <circle
+       cy="70"
+       cx="910.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle976" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M910.0,60 C911.154700538,65 911.154700538,65 910.0,70"
+       id="path978" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M911.154700538,65 Q 909,67 911,65 Q 913,63 915,65 Q 917,67 919,65 Q 921,63 923,65 Q 925,67 927,65"
+       id="path980" />
+    <circle
+       cy="150"
+       cx="930.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle982" />
+    <circle
+       cy="210"
+       cx="930.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle984" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M930.0,150 C936.92820323,180 936.92820323,180 930.0,210"
+       id="path986" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M936.92820323,180 Q 934,182 936,180 Q 938,178 940,180 Q 942,182 944,180 Q 946,178 948,180 Q 950,182 952,180"
+       id="path988" />
+    <circle
+       cy="70"
+       cx="930.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle990" />
+    <circle
+       cy="80"
+       cx="930.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle992" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M930.0,70 C931.154700538,75 931.154700538,75 930.0,80"
+       id="path994" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M931.154700538,75 Q 929,77 931,75 Q 933,73 935,75 Q 937,77 939,75 Q 941,73 943,75 Q 945,77 947,75"
+       id="path996" />
+    <circle
+       cy="20"
+       cx="950.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle998" />
+    <circle
+       cy="50"
+       cx="950.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle1000" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M950.0,20 C953.464101615,35 953.464101615,35 950.0,50"
+       id="path1002" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M953.464101615,35 Q 951,37 953,35 Q 955,33 957,35 Q 959,37 961,35 Q 963,33 965,35 Q 967,37 969,35"
+       id="path1004" />
+    <circle
+       cy="100"
+       cx="950.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle1006" />
+    <circle
+       cy="140"
+       cx="950.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle1008" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M950.0,100 C954.618802154,120 954.618802154,120 950.0,140"
+       id="path1010" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M954.618802154,120 Q 952,122 954,120 Q 956,118 958,120 Q 960,122 962,120 Q 964,118 966,120 Q 968,122 970,120"
+       id="path1012" />
+    <circle
+       cy="250"
+       cx="950.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle1014" />
+    <circle
+       cy="280"
+       cx="950.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle1016" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M950.0,250 C953.464101615,265 953.464101615,265 950.0,280"
+       id="path1018" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M953.464101615,265 Q 951,267 953,265 Q 955,263 957,265 Q 959,267 961,265 Q 963,263 965,265 Q 967,267 969,265"
+       id="path1020" />
+    <circle
+       cy="40"
+       cx="970.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle1022" />
+    <circle
+       cy="50"
+       cx="970.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle1024" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M970.0,40 C971.154700538,45 971.154700538,45 970.0,50"
+       id="path1026" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M971.154700538,45 Q 969,47 971,45 Q 973,43 975,45 Q 977,47 979,45 Q 981,43 983,45 Q 985,47 987,45 Q 989,43 991,45 Q 993,47 995,45 Q 997,43 999,45 Q 1001,47 1003,45 Q 1005,43 1007,45"
+       id="path1028" />
+    <circle
+       cy="150"
+       cx="970.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle1030" />
+    <circle
+       cy="310"
+       cx="970.0"
+       r="1"
+       fill="rgb(135, 190, 72)"
+       id="circle1032" />
+    <path
+       stroke="rgb(135, 190, 72)"
+       stroke-width="2"
+       d="M970.0,150 C988.475208614,230 988.475208614,230 970.0,310"
+       id="path1034" />
+    <path
+       stroke="rgb(165, 200, 102)"
+       stroke-width="2"
+       d="M988.475208614,230 Q 986,232 988,230 Q 990,228 992,230 Q 994,232 996,230 Q 998,228 1000,230 Q 1002,232 1004,230"
+       id="path1036" />
+    <circle
+       cy="30"
+       cx="970.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle1038" />
+    <circle
+       cy="50"
+       cx="970.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle1040" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M970.0,30 C972.309401077,40 972.309401077,40 970.0,50"
+       id="path1042" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M972.309401077,40 Q 970,42 972,40 Q 974,38 976,40 Q 978,42 980,40 Q 982,38 984,40 Q 986,42 988,40 Q 990,38 992,40 Q 994,42 996,40 Q 998,38 1000,40 Q 1002,42 1004,40 Q 1006,38 1008,40"
+       id="path1044" />
+    <circle
+       cy="60"
+       cx="990.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle1046" />
+    <circle
+       cy="80"
+       cx="990.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle1048" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M990.0,60 C992.309401077,70 992.309401077,70 990.0,80"
+       id="path1050" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M992.309401077,70 Q 990,72 992,70 Q 994,68 996,70 Q 998,72 1000,70 Q 1002,68 1004,70 Q 1006,72 1008,70"
+       id="path1052" />
+    <circle
+       cy="70"
+       cx="990.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle1054" />
+    <circle
+       cy="110"
+       cx="990.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle1056" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M990.0,70 C994.618802154,90 994.618802154,90 990.0,110"
+       id="path1058" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M994.618802154,90 Q 992,92 994,90 Q 996,88 998,90 Q 1000,92 1002,90 Q 1004,88 1006,90 Q 1008,92 1010,90"
+       id="path1060" />
+    <circle
+       cy="150"
+       cx="1010.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle1062" />
+    <circle
+       cy="160"
+       cx="1010.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle1064" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M1010.0,150 C1011.15470054,155 1011.15470054,155 1010.0,160"
+       id="path1066" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M1011.15470054,155 Q 1009,157 1011,155 Q 1013,153 1015,155 Q 1017,157 1019,155 Q 1021,153 1023,155 Q 1025,157 1027,155 Q 1029,153 1031,155 Q 1033,157 1035,155 Q 1037,153 1039,155 Q 1041,157 1043,155 Q 1045,153 1047,155 Q 1049,157 1051,155 Q 1053,153 1055,155 Q 1057,157 1059,155 Q 1061,153 1063,155 Q 1065,157 1067,155 Q 1069,153 1071,155 Q 1073,157 1075,155 Q 1077,153 1079,155 Q 1081,157 1083,155 Q 1085,153 1087,155 Q 1089,157 1091,155 Q 1093,153 1095,155 Q 1097,157 1099,155 Q 1101,153 1103,155 Q 1105,157 1107,155"
+       id="path1068" />
+    <circle
+       cy="190"
+       cx="1050.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle1070" />
+    <circle
+       cy="220"
+       cx="1050.0"
+       r="1"
+       fill="rgb(160, 160, 160)"
+       id="circle1072" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M1050.0,190 C1053.46410162,205 1053.46410162,205 1050.0,220"
+       id="path1074" />
+    <path
+       stroke="rgb(160, 160, 160)"
+       stroke-width="2"
+       d="M1053.46410162,205 Q 1051,207 1053,205 Q 1055,203 1057,205 Q 1059,207 1061,205 Q 1063,203 1065,205 Q 1067,207 1069,205"
+       id="path1076" />
+  </g>
+</svg>
